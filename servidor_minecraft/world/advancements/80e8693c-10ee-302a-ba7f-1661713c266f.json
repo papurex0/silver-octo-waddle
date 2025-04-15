@@ -640,7 +640,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-13 01:21:15 +0000",
-      "minecraft:zombie": "2025-04-13 00:24:15 +0000"
+      "minecraft:zombie": "2025-04-13 00:24:15 +0000",
+      "minecraft:drowned": "2025-04-15 02:13:20 +0000"
     },
     "done": false
   },
@@ -3620,6 +3621,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-15 02:13:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-15 02:13:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
     "criteria": {
       "has_log": "2025-04-15 01:42:12 +0000"
@@ -3662,6 +3675,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_table": {
+    "criteria": {
+      "has_log": "2025-04-15 02:13:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/fridge_dark": {
     "criteria": {
       "has_iron": "2025-04-15 01:42:12 +0000"
@@ -3698,6 +3717,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_blinds": {
+    "criteria": {
+      "has_log": "2025-04-15 02:13:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
     "criteria": {
       "has_cod": "2025-04-15 01:50:32 +0000"
@@ -3707,6 +3732,18 @@
   "cfm:recipes/decorations/blue_trampoline": {
     "criteria": {
       "has_iron": "2025-04-15 01:42:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_chair": {
+    "criteria": {
+      "has_planks": "2025-04-15 02:13:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk": {
+    "criteria": {
+      "has_log": "2025-04-15 02:13:46 +0000"
     },
     "done": true
   },
@@ -3758,9 +3795,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-15 02:13:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_grill": {
     "criteria": {
       "has_iron": "2025-04-15 01:42:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_crate": {
+    "criteria": {
+      "has_log": "2025-04-15 02:13:46 +0000"
     },
     "done": true
   },
@@ -3818,6 +3867,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_coffee_table": {
+    "criteria": {
+      "has_log": "2025-04-15 02:13:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-15 02:13:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_blue_trampoline": {
     "criteria": {
       "has_iron": "2025-04-15 01:42:12 +0000"
@@ -3830,9 +3891,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-04-15 02:13:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
     "criteria": {
       "has_chicken": "2025-04-15 01:50:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-04-15 02:13:46 +0000"
     },
     "done": true
   },
@@ -3866,6 +3939,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_crate": {
+    "criteria": {
+      "has_planks": "2025-04-15 02:13:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_blinds": {
     "criteria": {
       "has_log": "2025-04-15 01:42:12 +0000"
@@ -3878,15 +3957,45 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-15 02:13:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_crate": {
     "criteria": {
       "has_planks": "2025-04-15 01:42:12 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/rock_path": {
+    "criteria": {
+      "has_andesite": "2025-04-15 02:12:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_park_bench": {
+    "criteria": {
+      "has_log": "2025-04-15 02:13:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_log": "2025-04-15 01:42:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-15 02:13:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-04-15 02:13:46 +0000"
     },
     "done": true
   },
@@ -3908,15 +4017,45 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-04-15 02:13:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_trampoline": {
     "criteria": {
       "has_iron": "2025-04-15 01:42:12 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_desk": {
+    "criteria": {
+      "has_planks": "2025-04-15 02:13:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_chair": {
+    "criteria": {
+      "has_log": "2025-04-15 02:13:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/post_box": {
     "criteria": {
       "has_iron": "2025-04-15 01:42:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_table": {
+    "criteria": {
+      "has_planks": "2025-04-15 02:13:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_park_bench": {
+    "criteria": {
+      "has_log": "2025-04-15 02:13:46 +0000"
     },
     "done": true
   },
@@ -3929,6 +4068,12 @@
   "cfm:recipes/decorations/spruce_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-04-15 01:42:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-04-15 02:13:46 +0000"
     },
     "done": true
   },
@@ -3998,9 +4143,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-04-15 02:13:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_grill": {
     "criteria": {
       "has_iron": "2025-04-15 01:42:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-04-15 02:13:46 +0000"
     },
     "done": true
   },
