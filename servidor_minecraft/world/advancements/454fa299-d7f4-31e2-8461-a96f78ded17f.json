@@ -4031,5 +4031,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ice_from_freezing": {
+    "criteria": {
+      "has_water": "2025-04-15 01:35:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
