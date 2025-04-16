@@ -7262,6 +7262,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:angler_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-04-16 02:24:32 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_gray_grill": {
     "criteria": {
       "has_iron": "2025-04-16 01:55:31 +0000"
