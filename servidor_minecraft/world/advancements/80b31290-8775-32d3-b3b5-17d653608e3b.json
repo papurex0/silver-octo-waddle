@@ -2940,6 +2940,8 @@
       "minecraft:skeleton": "2025-04-11 04:40:23 +0000",
       "minecraft:spider": "2025-04-11 04:22:15 +0000",
       "minecraft:creeper": "2025-04-11 04:41:55 +0000",
+      "minecraft:wither_skeleton": "2025-04-16 00:29:50 +0000",
+      "minecraft:husk": "2025-04-16 00:32:03 +0000",
       "minecraft:zombie": "2025-04-15 02:35:23 +0000"
     },
     "done": false
@@ -3829,6 +3831,12 @@
   "cfm:recipes/decorations/blue_grill": {
     "criteria": {
       "has_iron": "2025-04-16 00:23:34 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:undead_army": {
+    "criteria": {
+      "army_defeated": "2025-04-16 00:32:34 +0000"
     },
     "done": true
   },

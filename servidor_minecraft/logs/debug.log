@@ -2952,3 +2952,30 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16Apr2025 00:21:39.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> hare otra de nueco
 [16Apr2025 00:25:03.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Apr2025 00:25:03.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 00:25:22.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> ya
+[16Apr2025 00:25:25.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> nos vamos a extender
+[16Apr2025 00:25:29.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> no me dio el espacio pa l;a nueva casa
+[16Apr2025 00:25:34.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> a ndhdshjds
+[16Apr2025 00:25:37.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> ta bn
+[16Apr2025 00:25:44.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> yo hare mi zona de pesca
+[16Apr2025 00:26:41.279] [Server thread/DEBUG] [mixin/]: Mixing MixinExplosion from majruszlibrary-common.mixins.json into net.minecraft.world.level.Explosion
+[16Apr2025 00:26:42.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> q es eso
+[16Apr2025 00:27:33.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> invasion
+[16Apr2025 00:28:08.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> use su espada
+[16Apr2025 00:30:03.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 00:30:03.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 00:32:34.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys has made the advancement [Spooky Scary Army]
+[16Apr2025 00:32:47.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Apr2025 00:32:47.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
+[16Apr2025 00:33:59.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> y mi dragon
+[16Apr2025 00:34:10.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> taba aca
+[16Apr2025 00:34:33.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> no esta
+[16Apr2025 00:35:03.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 00:35:03.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 00:35:32.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> vengs
+[16Apr2025 00:36:04.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> aca esta
+[16Apr2025 00:40:03.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 00:40:03.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 00:41:17.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-371, y=90, z=82} BlockPos{x=-371, y=88, z=83}
+[16Apr2025 00:45:03.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 00:45:03.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
