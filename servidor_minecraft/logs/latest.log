@@ -119,3 +119,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16Apr2025 00:12:39.637] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@a85cfd1[id=<null>,name=Matelunaaa,properties={},legacy=false] (/127.243.139.177:32869) lost connection: Disconnected
 [16Apr2025 00:12:45.684] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matelunaaa[/127.243.139.177:38833] logged in with entity id 1411 at (-347.21932321163297, 94.0, 132.7071483484995)
 [16Apr2025 00:12:45.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa joined the game
+[16Apr2025 00:13:46.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[16Apr2025 00:14:05.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[16Apr2025 00:20:41.467] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kishyys[/127.247.22.16:53019] logged in with entity id 5451 at (-351.7064257105647, 93.0, 123.64406051235261)
+[16Apr2025 00:20:41.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys joined the game
+[16Apr2025 00:21:33.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> y la casa
+[16Apr2025 00:21:39.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> hare otra de nueco
