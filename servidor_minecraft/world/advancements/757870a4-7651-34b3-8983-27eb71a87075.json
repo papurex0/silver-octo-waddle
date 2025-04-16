@@ -7520,5 +7520,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2025-04-16 23:02:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

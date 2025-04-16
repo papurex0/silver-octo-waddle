@@ -200,3 +200,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16Apr2025 22:51:35.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11586ms or 231 ticks behind
 [16Apr2025 22:57:24.737] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 lost connection: Disconnected
 [16Apr2025 22:57:24.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 left the game
+[16Apr2025 22:59:49.383] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matelunaaa[/127.243.139.177:47027] logged in with entity id 1578 at (-363.570987787587, 93.5, 109.42153333776103)
+[16Apr2025 22:59:49.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa joined the game
+[16Apr2025 22:59:53.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Apr2025 22:59:53.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[16Apr2025 22:59:58.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KidGore6[/127.21.85.100:48615] logged in with entity id 1851 at (-472.0653307711996, 120.0, 521.2482273157033)
+[16Apr2025 22:59:58.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 joined the game
