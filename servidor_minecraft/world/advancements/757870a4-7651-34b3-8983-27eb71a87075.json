@@ -7124,5 +7124,11 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/gray_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-04-16 01:25:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
