@@ -143,3 +143,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16Apr2025 00:35:32.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> vengs
 [16Apr2025 00:36:04.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> aca esta
 [16Apr2025 00:41:17.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-371, y=90, z=82} BlockPos{x=-371, y=88, z=83}
+[16Apr2025 01:05:59.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has reached the goal [For a Friend In Need]
