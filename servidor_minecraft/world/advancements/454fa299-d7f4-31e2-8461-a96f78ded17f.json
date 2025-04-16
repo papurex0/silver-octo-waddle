@@ -33,6 +33,7 @@
     "criteria": {
       "minecraft:taiga": "2025-04-15 02:18:05 +0000",
       "minecraft:eroded_badlands": "2025-04-16 02:53:00 +0000",
+      "minecraft:cherry_grove": "2025-04-16 03:14:53 +0000",
       "minecraft:birch_forest": "2025-04-15 02:15:58 +0000",
       "minecraft:wooded_badlands": "2025-04-12 06:31:11 +0000",
       "minecraft:badlands": "2025-04-12 06:54:55 +0000",
@@ -5079,6 +5080,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-04-16 03:11:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-04-16 02:59:07 +0000"
@@ -5088,6 +5095,18 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-04-16 02:51:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-04-16 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-04-16 03:11:29 +0000"
     },
     "done": true
   },
@@ -5109,9 +5128,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-16 03:11:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
       "bestiary": "2025-04-16 02:46:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-04-16 03:11:29 +0000"
     },
     "done": true
   },
