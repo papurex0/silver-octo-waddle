@@ -7526,5 +7526,59 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-16 23:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-04-16 23:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-04-16 23:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-04-16 23:34:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-16 23:34:47 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:wither_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-04-16 23:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-16 23:34:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-04-16 23:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-16 23:34:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

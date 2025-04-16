@@ -278,6 +278,7 @@
       "minecraft:vindicator": "2025-04-15 04:42:42 +0000",
       "minecraft:spider": "2025-04-04 02:25:35 +0000",
       "minecraft:creeper": "2025-04-12 02:54:06 +0000",
+      "minecraft:wither": "2025-04-16 23:34:40 +0000",
       "minecraft:phantom": "2025-04-12 02:54:42 +0000",
       "minecraft:witch": "2025-04-12 06:51:42 +0000",
       "minecraft:wither_skeleton": "2025-04-11 21:56:46 +0000",
@@ -7262,6 +7263,126 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-04-16 02:31:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-04-16 23:43:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-16 23:35:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-04-16 23:43:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-04-16 23:43:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-16 23:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-16 23:31:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-16 23:43:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/codebreaker": {
+    "criteria": {
+      "has_nether_star": "2025-04-16 23:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-04-16 23:33:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-04-16 23:43:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-04-16 23:35:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/rock_path": {
+    "criteria": {
+      "has_andesite": "2025-04-16 23:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-04-16 23:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-04-16 23:35:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-16 23:35:12 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:wither_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-04-16 23:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-16 23:35:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-04-16 23:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-16 23:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-16 23:31:43 +0000"
     },
     "done": true
   },

@@ -217,3 +217,33 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16Apr2025 23:24:56.983] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ab776f7[id=<null>,name=Matelunaaa,properties={},legacy=false] (/127.243.139.177:50307) lost connection: Disconnected
 [16Apr2025 23:26:04.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matelunaaa[/127.243.139.177:51869] logged in with entity id 11092 at (-348.92850467138436, 93.0, 139.66601367332845)
 [16Apr2025 23:26:04.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa joined the game
+[16Apr2025 23:30:44.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2253ms or 45 ticks behind
+[16Apr2025 23:30:45.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matelunaaa moved too quickly! 9.99902744057249,0.7276884875449809,-0.48761983746075543
+[16Apr2025 23:31:35.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2864ms or 57 ticks behind
+[16Apr2025 23:33:55.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Withering Heights]
+[16Apr2025 23:34:15.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Matelunaaa to KidGore6]
+[16Apr2025 23:34:47.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Withering Treasures]
+[16Apr2025 23:34:47.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Into Fire]
+[16Apr2025 23:35:12.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Withering Treasures]
+[16Apr2025 23:35:12.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Into Fire]
+[16Apr2025 23:37:23.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Matelunaaa to KidGore6]
+[16Apr2025 23:37:46.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Matelunaaa to KidGore6]
+[16Apr2025 23:40:17.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matelunaaa lost connection: Disconnected
+[16Apr2025 23:40:17.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa left the game
+[16Apr2025 23:42:21.859] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@20b52f3d[id=<null>,name=Matelunaaa,properties={},legacy=false] (/127.243.139.177:55347) lost connection: Disconnected
+[16Apr2025 23:42:27.530] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matelunaaa[/127.243.139.177:47373] logged in with entity id 18677 at (-355.2660778853669, 93.0, 124.6360728360329)
+[16Apr2025 23:42:27.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa joined the game
+[16Apr2025 23:46:28.448] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/21141, l='ServerLevel[world]', x=3057.50, y=-41.00, z=9873.50]
+[16Apr2025 23:46:30.097] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/21149, l='ServerLevel[world]', x=3057.50, y=-27.00, z=9876.50]
+[16Apr2025 23:46:30.098] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/21150, l='ServerLevel[world]', x=3055.50, y=-26.00, z=9877.50]
+[16Apr2025 23:46:30.098] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/21151, l='ServerLevel[world]', x=3056.50, y=-26.00, z=9877.50]
+[16Apr2025 23:46:30.101] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/21152, l='ServerLevel[world]', x=3056.50, y=-27.00, z=9878.50]
+[16Apr2025 23:46:30.102] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/21153, l='ServerLevel[world]', x=3056.50, y=-28.00, z=9878.50]
+[16Apr2025 23:46:30.102] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/21154, l='ServerLevel[world]', x=3055.50, y=-27.00, z=9879.50]
+[16Apr2025 23:46:30.103] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/21155, l='ServerLevel[world]', x=3058.50, y=-27.00, z=9880.50]
+[16Apr2025 23:46:30.103] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/21156, l='ServerLevel[world]', x=3055.50, y=-27.00, z=9880.50]
+[16Apr2025 23:46:37.044] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/21224, l='ServerLevel[world]', x=3061.50, y=-44.00, z=9886.50]
+[16Apr2025 23:46:37.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[16Apr2025 23:46:44.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Rocks Off!]
+[16Apr2025 23:46:50.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Apr2025 23:46:50.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
