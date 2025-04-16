@@ -403,7 +403,8 @@
       "minecraft:piglin": "2025-04-11 04:09:50 +0000",
       "minecraft:enderman": "2025-04-11 03:11:59 +0000",
       "minecraft:stray": "2025-04-12 05:59:43 +0000",
-      "minecraft:zombie": "2025-04-04 23:45:18 +0000"
+      "minecraft:zombie": "2025-04-04 23:45:18 +0000",
+      "minecraft:zombie_villager": "2025-04-16 02:09:41 +0000"
     },
     "done": false
   },
@@ -4985,9 +4986,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
-      "has_mutton": "2025-04-15 02:50:49 +0000"
+      "has_silver_nugget": "2025-04-15 02:35:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-04-15 02:36:44 +0000"
     },
     "done": true
   },
@@ -5009,39 +5016,21 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_horn": {
-    "criteria": {
-      "bestiary": "2025-04-15 02:46:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_egg": {
-    "criteria": {
-      "egg": "2025-04-15 02:36:44 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
     "criteria": {
       "has_dragonscales_sapphire": "2025-04-15 02:37:29 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_staff": {
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
     "criteria": {
-      "bestiary": "2025-04-15 02:46:36 +0000"
+      "has_item": "2025-04-15 02:37:29 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-04-15 02:38:21 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_sapphire_leggings": {
-    "criteria": {
-      "has_item": "2025-04-15 02:37:29 +0000"
     },
     "done": true
   },
@@ -5057,9 +5046,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+  "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
-      "has_silver_nugget": "2025-04-15 02:35:02 +0000"
+      "bestiary": "2025-04-15 02:46:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-04-15 02:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2025-04-15 02:50:49 +0000"
     },
     "done": true
   },

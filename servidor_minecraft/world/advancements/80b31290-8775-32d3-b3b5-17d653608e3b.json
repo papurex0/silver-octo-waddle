@@ -3894,6 +3894,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/diving_board": {
+    "criteria": {
+      "has_wheat": "2025-04-16 01:54:15 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/upgrades/gold_to_diamond_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-04-16 00:23:05 +0000"
@@ -4017,6 +4023,12 @@
   "cfm:recipes/decorations/purple_picket_gate": {
     "criteria": {
       "has_gate": "2025-04-16 01:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-04-16 01:56:47 +0000"
     },
     "done": true
   },
@@ -4254,6 +4266,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-04-16 01:54:15 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-04-16 01:34:33 +0000"
@@ -4401,6 +4419,12 @@
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-16 00:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2025-04-16 01:56:01 +0000"
     },
     "done": true
   },

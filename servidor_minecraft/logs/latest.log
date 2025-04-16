@@ -187,3 +187,34 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16Apr2025 01:35:30.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> y donde los encierro
 [16Apr2025 01:35:37.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> PERE
 [16Apr2025 01:36:37.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> mas espacio
+[16Apr2025 01:40:12.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Matelunaaa to KidGore6]
+[16Apr2025 01:42:01.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Apr2025 01:42:01.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
+[16Apr2025 01:49:47.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cakeyshere[/127.139.220.114:45463] logged in with entity id 55916 at (-165.73681294663336, 136.0, 362.68462749686154)
+[16Apr2025 01:49:47.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere joined the game
+[16Apr2025 01:49:56.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> tiene madera rosa
+[16Apr2025 01:53:24.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cakeyshere lost connection: Disconnected
+[16Apr2025 01:53:24.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere left the game
+[16Apr2025 01:55:02.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Apr2025 01:55:02.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
+[16Apr2025 01:56:24.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Would you Like to Know More?]
+[16Apr2025 02:01:35.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> mire
+[16Apr2025 02:01:44.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> zIA
+[16Apr2025 02:01:48.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> zia
+[16Apr2025 02:02:06.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> se arrancaron?
+[16Apr2025 02:02:16.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> se puede poner armadura
+[16Apr2025 02:02:20.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> si
+[16Apr2025 02:02:22.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> cuando crece
+[16Apr2025 02:04:48.721] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: r3xyzz[/127.224.200.61:55607] logged in with entity id 65244 at (-233.66494842085746, 162.0, 272.8609885472473)
+[16Apr2025 02:04:48.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz joined the game
+[16Apr2025 02:05:05.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> a
+[16Apr2025 02:05:21.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> b
+[16Apr2025 02:05:28.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> c
+[16Apr2025 02:06:02.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Apr2025 02:06:02.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
+[16Apr2025 02:07:34.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> oe loca
+[16Apr2025 02:07:43.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> se te estan escapando los niños de shein
+[16Apr2025 02:07:52.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> aonde
+[16Apr2025 02:08:02.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> vuelve
+[16Apr2025 02:08:15.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Apr2025 02:08:15.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
