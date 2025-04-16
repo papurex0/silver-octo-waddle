@@ -241,3 +241,24 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16Apr2025 02:24:32.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Fishing Fanatic]
 [16Apr2025 02:27:07.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz bled to death
 [16Apr2025 02:27:07.292] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for r3xyzz with unique ID travelersbackpack.standard_16.04.2025-02.27.07.dat
+[16Apr2025 02:28:09.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[16Apr2025 02:28:34.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9561ms or 191 ticks behind
+[16Apr2025 02:31:25.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Hot Stuff]
+[16Apr2025 02:31:58.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[16Apr2025 02:32:19.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5253ms or 105 ticks behind
+[16Apr2025 02:32:36.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2907ms or 58 ticks behind
+[16Apr2025 02:32:57.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[16Apr2025 02:34:05.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[16Apr2025 02:34:05.549] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['r3xyzz'/87853, l='ServerLevel[world]', x=-222.44, y=72.00, z=-888.49] died: r3xyzz was slain by r3xyzz
+[16Apr2025 02:35:13.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[16Apr2025 02:35:40.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[16Apr2025 02:36:08.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz has made the advancement [Mine? Mine? Mine?]
+[16Apr2025 02:37:30.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[16Apr2025 02:38:09.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz was turned to stone by Gorgon
+[16Apr2025 02:38:09.470] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for r3xyzz with unique ID travelersbackpack.standard_16.04.2025-02.38.09.dat
+[16Apr2025 02:46:29.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has completed the challenge [Return to Sender]
+[16Apr2025 02:46:35.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz has made the advancement [Clash of the Titans]
+[16Apr2025 02:47:37.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[16Apr2025 02:47:57.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5335ms or 106 ticks behind
+[16Apr2025 02:48:00.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Apr2025 02:48:00.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]

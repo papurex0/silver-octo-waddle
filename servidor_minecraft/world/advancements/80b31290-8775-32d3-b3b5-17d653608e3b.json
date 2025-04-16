@@ -3834,6 +3834,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/trapped_iron_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-16 02:36:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-16 00:23:05 +0000"
@@ -3876,6 +3882,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/trapped_diamond_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-16 02:36:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-04-16 00:22:18 +0000"
@@ -3897,6 +3909,12 @@
   "cfm:recipes/decorations/diving_board": {
     "criteria": {
       "has_wheat": "2025-04-16 01:54:15 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_copper_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-16 02:36:24 +0000"
     },
     "done": true
   },
@@ -4098,15 +4116,33 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/trapped_crystal_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-16 02:36:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-16 00:23:05 +0000"
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/trapped_gold_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-16 02:36:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-16 00:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-04-16 02:45:17 +0000"
     },
     "done": true
   },
@@ -4149,6 +4185,12 @@
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-16 00:22:18 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_obsidian_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-16 02:36:24 +0000"
     },
     "done": true
   },
@@ -4416,6 +4458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-16 02:36:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-16 00:23:05 +0000"
@@ -4455,6 +4503,12 @@
   "cfm:recipes/decorations/white_picket_gate": {
     "criteria": {
       "has_gate": "2025-04-16 01:34:33 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-16 02:36:24 +0000"
     },
     "done": true
   },
@@ -4587,6 +4641,12 @@
   "cfm:recipes/decorations/cyan_picket_gate": {
     "criteria": {
       "has_gate": "2025-04-16 01:34:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-04-16 02:45:17 +0000"
     },
     "done": true
   },

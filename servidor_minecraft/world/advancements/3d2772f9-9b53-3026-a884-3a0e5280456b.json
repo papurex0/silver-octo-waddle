@@ -7150,6 +7150,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-16 02:31:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-04-16 01:58:20 +0000"

@@ -36,6 +36,7 @@
       "minecraft:wooded_badlands": "2025-04-12 06:31:11 +0000",
       "minecraft:badlands": "2025-04-12 06:54:55 +0000",
       "minecraft:savanna_plateau": "2025-04-03 02:19:19 +0000",
+      "minecraft:beach": "2025-04-16 02:34:46 +0000",
       "minecraft:stony_peaks": "2025-04-03 02:23:46 +0000",
       "minecraft:dark_forest": "2025-04-15 02:16:37 +0000",
       "minecraft:sparse_jungle": "2025-04-12 06:13:47 +0000",
@@ -5067,6 +5068,18 @@
   "iceandfire:recipes/combat/armor_silver_metal_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-04-15 03:00:34 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:kill_yourself": {
+    "criteria": {
+      "kill_yourself": "2025-04-16 02:34:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-16 02:36:08 +0000"
     },
     "done": true
   },
