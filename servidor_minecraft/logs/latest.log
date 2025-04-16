@@ -210,3 +210,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16Apr2025 23:10:48.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa left the game
 [16Apr2025 23:14:01.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [16Apr2025 23:14:01.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
+[16Apr2025 23:23:53.091] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@39f8133a[id=<null>,name=Matelunaaa,properties={},legacy=false] (/127.243.139.177:57709) lost connection: Disconnected
+[16Apr2025 23:24:11.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Apr2025 23:24:11.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
+[16Apr2025 23:24:24.883] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@37b646d0[id=<null>,name=Matelunaaa,properties={},legacy=false] (/127.243.139.177:53029) lost connection: Disconnected
+[16Apr2025 23:24:56.983] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ab776f7[id=<null>,name=Matelunaaa,properties={},legacy=false] (/127.243.139.177:50307) lost connection: Disconnected
+[16Apr2025 23:26:04.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matelunaaa[/127.243.139.177:51869] logged in with entity id 11092 at (-348.92850467138436, 93.0, 139.66601367332845)
+[16Apr2025 23:26:04.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa joined the game
