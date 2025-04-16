@@ -206,3 +206,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16Apr2025 22:59:53.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
 [16Apr2025 22:59:58.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KidGore6[/127.21.85.100:48615] logged in with entity id 1851 at (-472.0653307711996, 120.0, 521.2482273157033)
 [16Apr2025 22:59:58.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 joined the game
+[16Apr2025 23:10:48.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matelunaaa lost connection: Disconnected
+[16Apr2025 23:10:48.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa left the game
+[16Apr2025 23:14:01.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Apr2025 23:14:01.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
