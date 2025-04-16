@@ -4834,9 +4834,21 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_warped_kitchen_sink_light": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "has_bucket": "2025-04-15 01:57:51 +0000"
+      "has_carrot": "2025-04-15 01:41:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/diving_board": {
+    "criteria": {
+      "has_wheat": "2025-04-15 01:50:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-04-15 01:50:11 +0000"
     },
     "done": true
   },
@@ -4846,9 +4858,285 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_crate": {
+    "criteria": {
+      "has_planks": "2025-04-15 01:53:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-04-15 01:53:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-15 01:53:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_desk": {
+    "criteria": {
+      "has_planks": "2025-04-15 01:53:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_table": {
+    "criteria": {
+      "has_planks": "2025-04-15 01:53:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-04-15 01:53:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-15 01:53:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_chair": {
+    "criteria": {
+      "has_planks": "2025-04-15 01:53:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_park_bench": {
+    "criteria": {
+      "has_planks": "2025-04-15 01:53:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-04-15 01:53:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-15 01:53:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-15 01:53:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-15 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-04-15 01:57:51 +0000"
     },
     "done": true
   },
@@ -4882,12 +5170,6 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/mangrove_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/spruce_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-04-15 01:57:51 +0000"
@@ -4900,33 +5182,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/diving_board": {
-    "criteria": {
-      "has_wheat": "2025-04-15 01:50:11 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/magenta_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-04-15 01:57:51 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/oak_crate": {
-    "criteria": {
-      "has_planks": "2025-04-15 01:53:04 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/oak_kitchen_sink_dark": {
-    "criteria": {
-      "has_bottom": "2025-04-15 01:53:04 +0000"
     },
     "done": true
   },
@@ -4936,39 +5194,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/oak_desk_cabinet": {
-    "criteria": {
-      "has_planks": "2025-04-15 01:53:04 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/light_blue_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/green_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/jungle_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-04-15 01:57:51 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_kitchen_drawer": {
-    "criteria": {
-      "has_log": "2025-04-15 02:12:24 +0000"
     },
     "done": true
   },
@@ -4987,12 +5215,6 @@
   "cfm:recipes/decorations/acacia_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-04-15 01:57:51 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/purple_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
     },
     "done": true
   },
@@ -5020,18 +5242,6 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/light_gray_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/oak_upgraded_fence": {
-    "criteria": {
-      "has_log": "2025-04-15 02:12:24 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-04-15 01:57:51 +0000"
@@ -5041,18 +5251,6 @@
   "cfm:recipes/decorations/blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-04-15 01:57:51 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/black_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/blue_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
     },
     "done": true
   },
@@ -5086,39 +5284,15 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/oak_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_acacia_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-04-15 01:57:51 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/oak_desk": {
-    "criteria": {
-      "has_planks": "2025-04-15 01:53:04 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/oak_blinds": {
-    "criteria": {
-      "has_log": "2025-04-15 02:12:24 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/birch_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-04-15 01:57:51 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/oak_table": {
-    "criteria": {
-      "has_planks": "2025-04-15 01:53:04 +0000"
     },
     "done": true
   },
@@ -5134,51 +5308,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_warped_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ice_from_freezing": {
-    "criteria": {
-      "has_water": "2025-04-15 01:58:26 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_desk": {
-    "criteria": {
-      "has_planks": "2025-04-15 02:12:24 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/cyan_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-04-15 01:57:51 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/door_mat": {
-    "criteria": {
-      "has_wheat": "2025-04-15 01:50:11 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_birch_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_crate": {
-    "criteria": {
-      "has_planks": "2025-04-15 02:12:24 +0000"
     },
     "done": true
   },
@@ -5188,33 +5320,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/oak_kitchen_counter": {
-    "criteria": {
-      "has_planks": "2025-04-15 01:53:04 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_kitchen_counter": {
-    "criteria": {
-      "has_log": "2025-04-15 02:12:24 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-04-15 01:57:51 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/birch_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
     },
     "done": true
   },
@@ -5224,21 +5332,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_oak_table": {
-    "criteria": {
-      "has_planks": "2025-04-15 02:12:24 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-04-15 01:57:51 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_desk_cabinet": {
-    "criteria": {
-      "has_planks": "2025-04-15 02:12:24 +0000"
     },
     "done": true
   },
@@ -5248,63 +5344,15 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/oak_bedside_cabinet": {
-    "criteria": {
-      "has_planks": "2025-04-15 01:53:04 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/gray_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
-    "criteria": {
-      "has_planks": "2025-04-15 02:12:24 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_acacia_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/dark_oak_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/orange_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-04-15 01:57:51 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/oak_chair": {
-    "criteria": {
-      "has_planks": "2025-04-15 01:53:04 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-04-15 01:57:51 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_cabinet": {
-    "criteria": {
-      "has_log": "2025-04-15 02:12:24 +0000"
     },
     "done": true
   },
@@ -5326,12 +5374,6 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/white_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/jungle_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-04-15 01:57:51 +0000"
@@ -5344,51 +5386,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/red_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-04-15 01:57:51 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/brown_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_park_bench": {
-    "criteria": {
-      "has_log": "2025-04-15 02:12:24 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/yellow_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/pink_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_coffee_table": {
-    "criteria": {
-      "has_planks": "2025-04-15 02:12:24 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
     },
     "done": true
   },
@@ -5404,45 +5404,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/acacia_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/warped_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/cyan_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/oak_park_bench": {
-    "criteria": {
-      "has_planks": "2025-04-15 01:53:04 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-04-15 01:57:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-04-15 01:41:03 +0000"
     },
     "done": true
   },
@@ -5452,45 +5416,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_oak_chair": {
-    "criteria": {
-      "has_planks": "2025-04-15 02:12:24 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/oak_kitchen_sink_light": {
-    "criteria": {
-      "has_bottom": "2025-04-15 01:53:04 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_jungle_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/oak_cabinet": {
-    "criteria": {
-      "has_planks": "2025-04-15 01:53:04 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/oak_kitchen_drawer": {
-    "criteria": {
-      "has_planks": "2025-04-15 01:53:04 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/light_blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-04-15 01:57:51 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
     },
     "done": true
   },
@@ -5500,21 +5428,93 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/magenta_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/lime_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-04-15 01:53:47 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-04-15 01:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ice_from_freezing": {
+    "criteria": {
+      "has_water": "2025-04-15 01:58:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-04-15 02:12:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-04-15 02:12:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_blinds": {
+    "criteria": {
+      "has_log": "2025-04-15 02:12:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-04-15 02:12:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-04-15 02:12:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-04-15 02:12:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_table": {
+    "criteria": {
+      "has_planks": "2025-04-15 02:12:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-15 02:12:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-15 02:12:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-15 02:12:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-04-15 02:12:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-04-15 02:12:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-04-15 02:12:24 +0000"
     },
     "done": true
   },
