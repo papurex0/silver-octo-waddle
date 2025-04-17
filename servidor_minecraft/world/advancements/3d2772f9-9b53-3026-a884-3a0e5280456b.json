@@ -7290,9 +7290,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 01:01:33 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 01:01:33 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_helmet": {
     "criteria": {
       "has_item": "2025-04-16 23:43:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 01:01:33 +0000"
     },
     "done": true
   },
@@ -7311,6 +7329,12 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-04-16 23:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 01:01:33 +0000"
     },
     "done": true
   },
@@ -7398,6 +7422,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 01:01:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-04-16 23:34:41 +0000"
@@ -7443,6 +7473,12 @@
   "travelersbackpack:recipes/misc/nether": {
     "criteria": {
       "has_nether_wart": "2025-04-16 23:35:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-04-17 01:01:33 +0000"
     },
     "done": true
   },

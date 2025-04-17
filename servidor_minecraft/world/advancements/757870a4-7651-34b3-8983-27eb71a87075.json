@@ -7724,6 +7724,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragonscale_sapphire_to_dragonscales_sapphire": {
+    "criteria": {
+      "has_dragonscale_sapphire": "2025-04-17 00:54:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
     "criteria": {
       "has_sapphire_gem": "2025-04-17 00:02:20 +0000"
