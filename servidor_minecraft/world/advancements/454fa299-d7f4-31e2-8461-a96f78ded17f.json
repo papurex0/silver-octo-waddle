@@ -5074,54 +5074,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2025-04-16 02:51:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_black_leggings": {
-    "criteria": {
-      "has_item": "2025-04-16 03:11:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-04-16 02:59:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2025-04-16 02:51:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_flute": {
-    "criteria": {
-      "bestiary": "2025-04-16 03:20:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_black_boots": {
-    "criteria": {
-      "has_item": "2025-04-16 03:11:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/bestiary": {
-    "criteria": {
-      "bestiary": "2025-04-16 03:25:20 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
-    "criteria": {
-      "has_dragonscales_black": "2025-04-16 03:11:29 +0000"
-    },
-    "done": true
-  },
   "majruszsdifficulty:kill_yourself": {
     "criteria": {
       "kill_yourself": "2025-04-16 02:34:05 +0000"
@@ -5134,9 +5086,51 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-04-16 02:46:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-04-16 02:51:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-04-16 02:51:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-16 02:59:07 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/bestiary": {
     "criteria": {
       "has_item": "2025-04-16 03:01:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-04-16 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-04-16 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-04-16 03:11:29 +0000"
     },
     "done": true
   },
@@ -5146,15 +5140,21 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/gorgon_head": {
-    "criteria": {
-      "bestiary": "2025-04-16 02:46:35 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_black_helmet": {
     "criteria": {
       "has_item": "2025-04-16 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-04-16 03:20:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-04-16 03:25:20 +0000"
     },
     "done": true
   },

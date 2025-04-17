@@ -872,3 +872,119 @@
 [17Apr2025 03:47:02.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa left the game
 [17Apr2025 03:47:18.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ahi ta
 [17Apr2025 03:47:28.354] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@899da5e[id=<null>,name=Matelunaaa,properties={},legacy=false] (/127.243.139.177:60483) lost connection: Disconnected
+[17Apr2025 03:47:42.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[17Apr2025 03:47:54.287] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@603b567a[id=<null>,name=Matelunaaa,properties={},legacy=false] (/127.243.139.177:39819) lost connection: Disconnected
+[17Apr2025 03:48:10.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12636ms or 252 ticks behind
+[17Apr2025 03:48:13.394] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7439b059[id=<null>,name=Matelunaaa,properties={},legacy=false] (/127.243.139.177:37403) lost connection: Disconnected
+[17Apr2025 03:48:34.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9670ms or 193 ticks behind
+[17Apr2025 03:48:38.344] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6c5d0cce[id=<null>,name=Matelunaaa,properties={},legacy=false] (/127.243.139.177:37715) lost connection: Disconnected
+[17Apr2025 03:48:42.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matelunaaa[/127.243.139.177:58355] logged in with entity id 166512 at (-470.08497491562235, 120.0, 522.8934477914925)
+[17Apr2025 03:48:42.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa joined the game
+[17Apr2025 03:48:45.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> mate
+[17Apr2025 03:48:51.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> resulta q cada fase son 25 días
+[17Apr2025 03:48:53.885] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4109ms or 82 ticks behind
+[17Apr2025 03:48:57.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> para la fase 5 debe tener 125 días
+[17Apr2025 03:49:11.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [The Only Good Bug...]
+[17Apr2025 03:49:12.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3422ms or 68 ticks behind
+[17Apr2025 03:49:16.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Its Like Printing my Own Money!]
+[17Apr2025 03:49:29.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[17Apr2025 03:49:36.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> wtf
+[17Apr2025 03:49:40.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> tas re laggeado
+[17Apr2025 03:49:41.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> XD
+[17Apr2025 03:49:54.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> AVER
+[17Apr2025 03:49:58.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> ca;l,a
+[17Apr2025 03:50:08.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> siento q construiste la weá mal
+[17Apr2025 03:50:13.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> asi es
+[17Apr2025 03:50:35.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> mano
+[17Apr2025 03:50:42.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> es solamente con uno de esos bloques de entrada
+[17Apr2025 03:50:45.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> no 4
+[17Apr2025 03:50:46.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> XD.
+[17Apr2025 03:50:53.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> ES FASE 3
+[17Apr2025 03:50:58.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> igual aver
+[17Apr2025 03:51:04.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> si está construido mal la cuesitón
+[17Apr2025 03:51:10.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> CALMA
+[17Apr2025 03:51:11.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> LO VEO
+[17Apr2025 03:51:14.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> yose
+[17Apr2025 03:51:18.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> confia
+[17Apr2025 03:51:44.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> se supone
+[17Apr2025 03:51:51.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> SEGUN CHATGPT ESTA BIEN
+[17Apr2025 03:51:55.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> puta
+[17Apr2025 03:52:03.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> no confio del chatgpt
+[17Apr2025 03:52:15.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> se encesita otros
+[17Apr2025 03:52:18.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> de esos normales
+[17Apr2025 03:52:23.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> falta reemplazar el de atrás
+[17Apr2025 03:52:24.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matelunaaa moved wrongly!
+[17Apr2025 03:52:33.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ahno
+[17Apr2025 03:52:34.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matelunaaa lost connection: Disconnected
+[17Apr2025 03:52:34.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa left the game
+[17Apr2025 03:52:38.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: r3xyzz[/127.219.193.42:44273] logged in with entity id 169935 at (-236.34184780053243, 146.0, 269.5430539758179)
+[17Apr2025 03:52:38.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz joined the game
+[17Apr2025 03:52:45.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> LO SABIA
+[17Apr2025 03:52:46.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> JHAJAJSAJAJSDJASD
+[17Apr2025 03:52:49.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> OLA ethan
+[17Apr2025 03:53:06.525] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@390b444a[id=<null>,name=Matelunaaa,properties={},legacy=false] (/127.243.139.177:47423) lost connection: Disconnected
+[17Apr2025 03:53:14.422] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matelunaaa[/127.243.139.177:40381] logged in with entity id 170353 at (-348.11993081878376, 93.0, 123.72397917607623)
+[17Apr2025 03:53:14.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa joined the game
+[17Apr2025 03:53:19.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> MIRA
+[17Apr2025 03:53:21.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> TE HICE LA WEÁ
+[17Apr2025 03:53:34.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> SI YO YA SABÍA Q NO HABÍA Q PONER TANTOS
+[17Apr2025 03:53:39.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ahora pruieba
+[17Apr2025 03:53:43.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> la mea vola
+[17Apr2025 03:53:45.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> chupalo
+[17Apr2025 03:53:49.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ez
+[17Apr2025 03:54:00.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> paver es q iguale s de noche
+[17Apr2025 03:54:14.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> toy bugueado wnnnnnnnnnnnn
+[17Apr2025 03:54:20.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> tiene q estar despierto
+[17Apr2025 03:54:21.611] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: r3xyzz lost connection: Disconnected
+[17Apr2025 03:54:21.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz left the game
+[17Apr2025 03:54:21.662] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Apr2025 03:54:21.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ekside
+[17Apr2025 03:54:40.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matelunaaa lost connection: Disconnected
+[17Apr2025 03:54:40.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa left the game
+[17Apr2025 03:55:00.094] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5bbdf078[id=<null>,name=Matelunaaa,properties={},legacy=false] (/127.243.139.177:59727) lost connection: Disconnected
+[17Apr2025 03:55:18.495] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ba37fc9[id=<null>,name=Matelunaaa,properties={},legacy=false] (/127.243.139.177:36083) lost connection: Disconnected
+[17Apr2025 03:55:43.354] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c0df4ca[id=<null>,name=Matelunaaa,properties={},legacy=false] (/127.243.139.177:34817) lost connection: Disconnected
+[17Apr2025 03:55:47.163] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matelunaaa[/127.243.139.177:53813] logged in with entity id 171954 at (-354.24052076646524, 93.0, 135.33941234185517)
+[17Apr2025 03:55:47.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa joined the game
+[17Apr2025 03:56:04.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> TIENE Q CRECR MAS
+[17Apr2025 03:56:13.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> para su última etapa
+[17Apr2025 03:56:17.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> debe tener 125 días
+[17Apr2025 03:56:34.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> PUTA Y ESTA WEA SE BUGUEA A CADA RATO WN
+[17Apr2025 03:56:40.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> pero cmo wtf
+[17Apr2025 03:56:48.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> NO ME DEJA INTERACTUAR CON NADIE
+[17Apr2025 03:56:53.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> q meirda
+[17Apr2025 03:59:20.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> no tenés cmo
+[17Apr2025 03:59:23.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> hacer q lance hielo?
+[17Apr2025 03:59:46.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> YO ANTES LOS MONTABA Y TIRABAN HIELO
+[17Apr2025 03:59:49.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> AHORA NADA
+[17Apr2025 03:59:52.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> es q
+[17Apr2025 03:59:53.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> YO CREO QUE STAGE 4
+[17Apr2025 03:59:55.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> LO HACE
+[17Apr2025 03:59:55.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> sip
+[17Apr2025 04:00:02.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> creo q el tiro de hielo necesita esa stage
+[17Apr2025 04:00:04.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> o el 5
+[17Apr2025 04:00:13.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> pero igual no debería pq
+[17Apr2025 04:00:17.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> necesito ma carne
+[17Apr2025 04:00:20.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> se supone q solito debería ahcer eso
+[17Apr2025 04:00:21.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Set own game mode to Creative Mode]
+[17Apr2025 04:00:23.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> concha
+[17Apr2025 04:00:53.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Set own game mode to Survival Mode]
+[17Apr2025 04:01:16.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> me acabo de tirar 2 fase 5
+[17Apr2025 04:01:26.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> me di cuenta
+[17Apr2025 04:01:29.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> XD
+[17Apr2025 04:01:38.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> XDDDDDDDDDDDDDDDD
+[17Apr2025 04:01:41.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> como asi?
+[17Apr2025 04:01:41.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> Ekisde
+[17Apr2025 04:01:45.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> como supiste
+[17Apr2025 04:01:58.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> por los días
+[17Apr2025 04:01:59.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> 125
+[17Apr2025 04:02:02.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> y el tamaño
+[17Apr2025 04:02:02.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> lol
+[17Apr2025 04:02:15.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> no xd
+[17Apr2025 04:02:17.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> recien
+[17Apr2025 04:02:23.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> vine a una cueva
+[17Apr2025 04:02:31.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> y me tope 2 dragones mama fase 5 xd
+[17Apr2025 04:04:34.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> ya no entiendo
+[17Apr2025 04:04:37.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> es fase 4 ahora
+[17Apr2025 04:08:46.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[17Apr2025 04:09:03.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2314ms or 46 ticks behind
