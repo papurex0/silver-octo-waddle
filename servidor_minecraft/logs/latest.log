@@ -149,3 +149,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Apr2025 23:33:46.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Spectator Mode]
 [17Apr2025 23:34:07.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Survival Mode]
 [17Apr2025 23:43:15.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Creative Mode]
+[17Apr2025 23:43:22.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Survival Mode]
