@@ -7308,6 +7308,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-04-17 01:11:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-04-17 01:01:33 +0000"
