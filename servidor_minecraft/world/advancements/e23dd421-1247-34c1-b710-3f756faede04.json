@@ -571,6 +571,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-06 02:06:55 +0000",
+      "minecraft:blaze": "2025-04-17 17:14:12 +0000",
       "minecraft:skeleton": "2025-04-03 00:57:11 +0000",
       "minecraft:ghast": "2025-04-12 00:05:28 +0000",
       "minecraft:hoglin": "2025-04-11 23:45:27 +0000",
@@ -5735,6 +5736,18 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-04-17 17:00:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-04-17 22:56:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-04-17 22:58:13 +0000"
     },
     "done": true
   },
