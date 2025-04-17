@@ -3495,3 +3495,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16Apr2025 23:46:44.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Rocks Off!]
 [16Apr2025 23:46:50.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [16Apr2025 23:46:50.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
+[16Apr2025 23:51:15.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 23:51:15.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 23:54:11.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Ol' Betsy]
+[16Apr2025 23:55:39.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Matelunaaa to KidGore6]
+[16Apr2025 23:55:45.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Set own game mode to Spectator Mode]
+[16Apr2025 23:56:03.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Apr2025 23:56:03.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
+[16Apr2025 23:56:14.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 23:56:14.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 23:56:32.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 was turned to ice by Ice Dragon
+[16Apr2025 23:56:32.961] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for KidGore6 with unique ID travelersbackpack.standard_16.04.2025-23.56.32.dat
+[16Apr2025 23:56:58.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 was turned to ice by Ice Dragon
+[16Apr2025 23:57:09.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 was doomed to fall by Ice Dragon
+[16Apr2025 23:57:22.532] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['KidGore6'/26499, l='ServerLevel[world]', x=3424.21, y=15.50, z=10095.50] died: KidGore6 was pricked to death
+[16Apr2025 23:57:28.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 moved wrongly!
+[16Apr2025 23:59:12.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Mother of Dragons]
+[16Apr2025 23:59:48.985] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['KidGore6'/26931, l='ServerLevel[world]', x=3435.30, y=-31.00, z=10081.30] died: KidGore6 was shot by KidGore6
+[17Apr2025 00:00:21.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Set own game mode to Survival Mode]
+[17Apr2025 00:01:14.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 00:01:14.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
