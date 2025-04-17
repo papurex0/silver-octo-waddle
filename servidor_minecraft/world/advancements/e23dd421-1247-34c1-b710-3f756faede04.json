@@ -5678,6 +5678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2025-04-17 03:31:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone": {
     "criteria": {
       "has_item": "2025-04-17 00:50:02 +0000"

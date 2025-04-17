@@ -7368,6 +7368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 03:39:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/codebreaker": {
     "criteria": {
       "has_nether_star": "2025-04-16 23:34:41 +0000"
@@ -7467,6 +7473,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-04-17 00:39:50 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-04-17 03:26:35 +0000"
     },
     "done": true
   },
