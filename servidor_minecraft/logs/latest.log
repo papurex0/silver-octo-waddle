@@ -142,3 +142,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Apr2025 23:15:12.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! -4.802845619350876,0.0,12.029646149901055
 [17Apr2025 23:15:12.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! -5.417318989049463,0.0,13.174353960130247
 [17Apr2025 23:21:41.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! 0.401759318510841,0.11308446330087918,10.35486865625353
+[17Apr2025 23:29:57.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Creative Mode]
+[17Apr2025 23:30:51.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Survival Mode]
+[17Apr2025 23:32:54.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Spectator Mode]
