@@ -31,6 +31,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-04-17 03:02:50 +0000",
       "minecraft:taiga": "2025-04-14 02:19:57 +0000",
       "minecraft:deep_ocean": "2025-04-12 05:15:56 +0000",
       "minecraft:eroded_badlands": "2025-04-06 02:39:30 +0000",
@@ -7790,6 +7791,12 @@
   "iceandfire:recipes/misc/dragonscale_sapphire_to_dragonscales_sapphire": {
     "criteria": {
       "has_dragonscale_sapphire": "2025-04-17 00:54:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-04-17 03:02:28 +0000"
     },
     "done": true
   },

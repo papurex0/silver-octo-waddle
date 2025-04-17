@@ -5714,6 +5714,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_arrow": {
+    "criteria": {
+      "has_item": "2025-04-17 03:05:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_torch": {
     "criteria": {
       "has_item": "2025-04-17 00:50:02 +0000"
