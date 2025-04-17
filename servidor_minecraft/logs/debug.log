@@ -3706,3 +3706,59 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Apr2025 00:09:54.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3132ms or 62 ticks behind
 [17Apr2025 00:11:17.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Apr2025 00:11:17.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 00:14:01.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Teleported Cakeyshere to KidGore6]
+[17Apr2025 00:14:05.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ola
+[17Apr2025 00:14:08.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> ola
+[17Apr2025 00:14:14.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ahí te la pase
+[17Apr2025 00:14:14.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Matelunaaa to KidGore6]
+[17Apr2025 00:14:15.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> graciassss
+[17Apr2025 00:14:19.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> sis
+[17Apr2025 00:14:21.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> pero al cocnha
+[17Apr2025 00:14:26.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> en q están
+[17Apr2025 00:14:28.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> en todo caso
+[17Apr2025 00:14:35.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> yo haciendo micasa
+[17Apr2025 00:14:43.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> aaa
+[17Apr2025 00:14:52.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> no se mataron a ningun otro boss
+[17Apr2025 00:14:53.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> o algo
+[17Apr2025 00:14:58.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> no nada
+[17Apr2025 00:14:59.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> aun no
+[17Apr2025 00:15:03.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> xuta
+[17Apr2025 00:15:05.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> acabo de matar mi primera mama dragona
+[17Apr2025 00:15:13.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> electrica de fuego o de hielo
+[17Apr2025 00:15:17.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> hielo
+[17Apr2025 00:15:20.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> tier 5
+[17Apr2025 00:15:24.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> concha
+[17Apr2025 00:15:43.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> te lo soleaste
+[17Apr2025 00:15:51.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> tier 43
+[17Apr2025 00:15:53.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> 4
+[17Apr2025 00:16:02.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ah jeje
+[17Apr2025 00:16:07.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> igual son brigidos
+[17Apr2025 00:16:09.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> sobretodo los de hielo
+[17Apr2025 00:16:17.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 00:16:17.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 00:16:24.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> mate
+[17Apr2025 00:16:27.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> a mi me tiraban pa bajao
+[17Apr2025 00:16:30.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> q
+[17Apr2025 00:16:34.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> cmo q te tirab para abajo
+[17Apr2025 00:16:37.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> los dragones
+[17Apr2025 00:16:40.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> t congelan las patas
+[17Apr2025 00:16:43.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> se supone q los drgones no pueden cavar hacia abajo
+[17Apr2025 00:16:45.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> eso si
+[17Apr2025 00:16:51.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> y se van pa riba
+[17Apr2025 00:16:54.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> sin arco son imposibles
+[17Apr2025 00:16:55.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> sis
+[17Apr2025 00:16:58.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> y yo njo uso arcop
+[17Apr2025 00:16:59.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> XD
+[17Apr2025 00:17:01.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> pero cmo
+[17Apr2025 00:17:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> un arco con poder VI lo hacen pene
+[17Apr2025 00:17:17.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> hasta ahí queda lo brígido
+[17Apr2025 00:17:19.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> si este wn lo mato con eso
+[17Apr2025 00:17:23.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> aaaa
+[17Apr2025 00:17:25.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> con mayor razón
+[17Apr2025 00:17:32.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> pero con arco de huesos de dragon
+[17Apr2025 00:17:39.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ufas con aún mayor razón
+[17Apr2025 00:17:48.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> yo lo mire no ma
+[17Apr2025 00:19:12.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[17Apr2025 00:21:01.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 moved wrongly!
+[17Apr2025 00:21:19.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 00:21:19.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

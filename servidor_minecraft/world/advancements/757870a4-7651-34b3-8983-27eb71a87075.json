@@ -7580,6 +7580,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-04-17 00:16:02 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/building_blocks/dye_black_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-04-16 23:51:05 +0000"
