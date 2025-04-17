@@ -7272,6 +7272,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-04-17 00:39:24 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_leggings": {
     "criteria": {
       "has_item": "2025-04-16 23:43:53 +0000"
@@ -7314,6 +7320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-04-17 00:39:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/frost_troll_leather_boots": {
     "criteria": {
       "has_item": "2025-04-17 00:16:11 +0000"
@@ -7323,6 +7335,12 @@
   "securitycraft:recipes/tools/codebreaker": {
     "criteria": {
       "has_nether_star": "2025-04-16 23:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2025-04-17 00:39:50 +0000"
     },
     "done": true
   },
@@ -7341,6 +7359,18 @@
   "alexsmobs:alexsmobs/rocky_roller": {
     "criteria": {
       "killed": "2025-04-16 23:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-04-17 00:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-17 00:37:02 +0000"
     },
     "done": true
   },
@@ -7383,6 +7413,12 @@
   "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
       "has_silver_nugget": "2025-04-16 23:52:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-04-17 00:39:50 +0000"
     },
     "done": true
   },

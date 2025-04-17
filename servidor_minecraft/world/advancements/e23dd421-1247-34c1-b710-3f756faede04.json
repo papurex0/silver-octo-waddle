@@ -45,11 +45,13 @@
       "minecraft:river": "2025-04-01 00:04:32 +0000",
       "minecraft:lukewarm_ocean": "2025-04-04 02:55:05 +0000",
       "minecraft:stony_shore": "2025-04-01 00:07:10 +0000",
+      "minecraft:snowy_plains": "2025-04-17 00:43:00 +0000",
       "minecraft:dripstone_caves": "2025-04-04 01:51:45 +0000",
       "minecraft:grove": "2025-04-14 03:20:52 +0000",
       "minecraft:jagged_peaks": "2025-04-14 03:25:32 +0000",
       "minecraft:forest": "2025-04-01 00:02:56 +0000",
       "minecraft:lush_caves": "2025-04-14 02:06:29 +0000",
+      "minecraft:frozen_ocean": "2025-04-17 00:43:19 +0000",
       "minecraft:desert": "2025-04-06 01:31:32 +0000",
       "minecraft:jungle": "2025-04-06 01:19:32 +0000",
       "minecraft:ocean": "2025-04-06 01:07:36 +0000",
@@ -5515,6 +5517,132 @@
   "cfm:recipes/decorations/stripped_oak_chair": {
     "criteria": {
       "has_planks": "2025-04-15 02:12:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-17 00:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-17 00:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-17 00:36:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2025-04-17 00:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-17 00:38:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/codebreaker": {
+    "criteria": {
+      "has_nether_star": "2025-04-17 00:46:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2025-04-17 00:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-17 00:36:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2025-04-17 00:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-17 00:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-17 00:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-17 00:38:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-04-17 00:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-17 00:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-04-17 00:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-17 00:44:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-04-17 00:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-17 00:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-17 00:38:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2025-04-17 00:49:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-04-17 00:50:02 +0000"
     },
     "done": true
   },

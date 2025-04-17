@@ -7598,6 +7598,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragonscale_blue_to_dragonscales_blue": {
+    "criteria": {
+      "has_dragonscale_blue": "2025-04-17 00:49:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2025-04-16 23:52:18 +0000"
@@ -7646,9 +7652,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2025-04-17 00:47:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2025-04-16 23:51:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
+    "criteria": {
+      "has_item": "2025-04-17 00:47:02 +0000"
     },
     "done": true
   },
@@ -7670,9 +7688,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
+    "criteria": {
+      "has_item": "2025-04-17 00:47:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2025-04-16 23:52:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2025-04-17 00:47:03 +0000"
     },
     "done": true
   },
