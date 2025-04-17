@@ -7362,9 +7362,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-17 02:50:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/codebreaker": {
     "criteria": {
       "has_nether_star": "2025-04-16 23:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-04-17 02:30:14 +0000"
     },
     "done": true
   },

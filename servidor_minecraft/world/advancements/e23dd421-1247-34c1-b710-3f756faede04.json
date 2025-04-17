@@ -5588,6 +5588,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-04-17 02:07:08 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
       "bestiary": "2025-04-17 01:39:02 +0000"
@@ -5666,6 +5672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-17 02:23:02 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone": {
     "criteria": {
       "has_item": "2025-04-17 00:50:02 +0000"
@@ -5675,6 +5687,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-04-17 00:44:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-04-17 02:22:53 +0000"
     },
     "done": true
   },
