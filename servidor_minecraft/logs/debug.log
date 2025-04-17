@@ -2626,3 +2626,20 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Apr2025 23:04:36.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Apr2025 23:09:36.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Apr2025 23:09:36.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 23:13:22.169] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[17Apr2025 23:14:36.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 23:14:36.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 23:15:12.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! -3.529561837134395,0.0,9.552029758559684
+[17Apr2025 23:15:12.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! -3.978469484320925,0.0,10.763568040191558
+[17Apr2025 23:15:12.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! -4.428469361466298,0.0,11.977589560524393
+[17Apr2025 23:15:12.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! -4.879432585435353,0.0,13.193801297391701
+[17Apr2025 23:15:12.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! -5.331245481302901,0.0,14.411944805242229
+[17Apr2025 23:15:12.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! -5.783807787784923,0.0,15.631792135100113
+[17Apr2025 23:15:12.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! -6.237031074428913,0.0,16.853142235968335
+[17Apr2025 23:15:12.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! -6.743114185430386,0.0,18.04768266306064
+[17Apr2025 23:15:12.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! -4.213307061527672,0.0,10.875829122565847
+[17Apr2025 23:15:12.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! -4.802845619350876,0.0,12.029646149901055
+[17Apr2025 23:15:12.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! -5.417318989049463,0.0,13.174353960130247
+[17Apr2025 23:19:36.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 23:19:36.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 23:21:41.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! 0.401759318510841,0.11308446330087918,10.35486865625353
