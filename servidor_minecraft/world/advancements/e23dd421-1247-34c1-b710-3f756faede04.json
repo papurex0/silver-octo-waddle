@@ -5827,6 +5827,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-04-18 03:42:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_acacia_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-04-18 02:54:44 +0000"
@@ -5848,6 +5854,12 @@
   "cfm:recipes/decorations/acacia_desk": {
     "criteria": {
       "has_log": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-04-18 03:42:08 +0000"
     },
     "done": true
   },
@@ -5941,6 +5953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_ice_from_freezing": {
+    "criteria": {
+      "has_packed_ice": "2025-04-18 03:35:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_acacia_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-04-18 02:54:44 +0000"
@@ -5974,6 +5992,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-18 02:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-18 03:42:08 +0000"
     },
     "done": true
   },
@@ -6025,6 +6049,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2025-04-18 03:35:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonarmor_iron_head": {
     "criteria": {
       "has_the_recipe": "2025-04-18 03:19:10 +0000"
@@ -6043,9 +6073,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-18 03:42:08 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonarmor_iron_body": {
     "criteria": {
       "has_the_recipe": "2025-04-18 03:19:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-18 03:42:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-18 03:42:08 +0000"
     },
     "done": true
   },
@@ -6061,6 +6109,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-04-18 03:42:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2025-04-18 02:44:26 +0000"
@@ -6070,6 +6124,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-04-18 02:25:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/rock_path": {
+    "criteria": {
+      "has_stone": "2025-04-18 03:40:57 +0000"
     },
     "done": true
   },
@@ -6115,6 +6175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-18 03:42:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-04-18 02:25:23 +0000"
@@ -6124,6 +6190,12 @@
   "iceandfire:recipes/combat/dragonarmor_iron_tail": {
     "criteria": {
       "has_the_recipe": "2025-04-18 03:19:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_sapphire_to_dragonscales_sapphire": {
+    "criteria": {
+      "has_dragonscale_sapphire": "2025-04-18 03:42:26 +0000"
     },
     "done": true
   },
@@ -6148,6 +6220,12 @@
   "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
     "criteria": {
       "has_sign": "2025-04-18 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-18 03:42:08 +0000"
     },
     "done": true
   },

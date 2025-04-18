@@ -478,3 +478,32 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Apr2025 03:32:07.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> waos
 [18Apr2025 03:32:25.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3466ms or 69 ticks behind
 [18Apr2025 03:32:39.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> q onda
+[18Apr2025 03:32:51.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[18Apr2025 03:33:14.076] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7868ms or 157 ticks behind
+[18Apr2025 03:33:36.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6988ms or 139 ticks behind
+[18Apr2025 03:33:55.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[18Apr2025 03:34:32.013] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kishyys[/127.120.207.226:46835] logged in with entity id 74732 at (-242.25252118440332, 71.0, -226.33640396951307)
+[18Apr2025 03:34:32.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys joined the game
+[18Apr2025 03:35:00.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere has reached the goal [Ice Scream]
+[18Apr2025 03:36:25.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Matelunaaa) moved wrongly! 0.40847060769308996
+[18Apr2025 03:36:25.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Matelunaaa) moved wrongly! 0.39246772274452724
+[18Apr2025 03:42:14.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[18Apr2025 03:42:39.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> o_o
+[18Apr2025 03:42:43.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2095ms or 41 ticks behind
+[18Apr2025 03:42:43.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> wacha araceli
+[18Apr2025 03:42:46.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> wacho
+[18Apr2025 03:42:49.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> que me encontre
+[18Apr2025 03:42:53.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> xd
+[18Apr2025 03:43:00.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> quieres probar ?
+[18Apr2025 03:43:02.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> xdxdxdxd
+[18Apr2025 03:43:03.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5426ms or 108 ticks behind
+[18Apr2025 03:43:04.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ya pero sin toleos
+[18Apr2025 03:43:09.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> troll
+[18Apr2025 03:43:11.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> shi
+[18Apr2025 03:43:12.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> type shoi
+[18Apr2025 03:43:16.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> nananaa
+[18Apr2025 03:43:18.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> era bair
+[18Apr2025 03:43:20.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> bait
+[18Apr2025 03:43:22.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4365ms or 87 ticks behind
+[18Apr2025 03:43:26.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ekisde
+[18Apr2025 03:43:38.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> oe pero
