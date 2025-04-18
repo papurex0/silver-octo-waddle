@@ -2802,3 +2802,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Apr2025 20:19:56.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: The difficulty has been set to Normal]
 [18Apr2025 20:21:33.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Apr2025 20:21:33.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 20:22:35.182] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/3208, l='ServerLevel[world]', x=-346.30, y=90.00, z=363.50] died, message: 'Fisherman was slain by cupón de descuento'
+[18Apr2025 20:23:31.485] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['cupón de descuento'/4638, l='ServerLevel[world]', x=-345.50, y=90.00, z=360.07] died: cupón de descuento was shot by Cakeyshere using [chiquiiii]
+[18Apr2025 20:25:56.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Summoned new Villager]
+[18Apr2025 20:26:33.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 20:26:33.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 20:27:22.032] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/5566, l='ServerLevel[world]', x=-377.16, y=96.27, z=334.50] died, message: 'Weaponsmith was slain by Zombie'
+[18Apr2025 20:30:27.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Summoned new Villager]
+[18Apr2025 20:30:53.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Summoned new Villager]
+[18Apr2025 20:30:58.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Summoned new Villager]
+[18Apr2025 20:31:02.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Summoned new Villager]
+[18Apr2025 20:31:08.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Summoned new Villager]
+[18Apr2025 20:31:12.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Summoned new Villager]
+[18Apr2025 20:31:17.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Summoned new Villager]
+[18Apr2025 20:31:33.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 20:31:33.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 20:36:33.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 20:36:33.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 20:41:33.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 20:41:33.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
