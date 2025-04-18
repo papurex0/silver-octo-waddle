@@ -6004,6 +6004,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-04-18 04:21:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
     "criteria": {
       "has_sign": "2025-04-18 02:44:26 +0000"
@@ -6013,6 +6019,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-18 02:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-04-18 04:21:26 +0000"
     },
     "done": true
   },
@@ -6076,6 +6088,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-04-18 04:21:26 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/froststalker_kill": {
     "criteria": {
       "ex": "2025-04-18 03:35:00 +0000"
@@ -6106,9 +6124,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-04-18 04:21:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonarmor_iron_body": {
     "criteria": {
       "has_the_recipe": "2025-04-18 03:19:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-18 04:20:47 +0000"
     },
     "done": true
   },
@@ -6181,6 +6211,12 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-04-18 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-18 04:21:26 +0000"
     },
     "done": true
   },
@@ -6307,6 +6343,12 @@
   "cfm:recipes/decorations/acacia_crate": {
     "criteria": {
       "has_log": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-18 04:20:47 +0000"
     },
     "done": true
   },

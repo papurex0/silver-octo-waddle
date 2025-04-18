@@ -35,6 +35,7 @@
       "minecraft:taiga": "2025-04-15 02:18:05 +0000",
       "minecraft:eroded_badlands": "2025-04-16 02:53:00 +0000",
       "minecraft:cherry_grove": "2025-04-16 03:14:53 +0000",
+      "minecraft:sunflower_plains": "2025-04-18 04:21:24 +0000",
       "minecraft:birch_forest": "2025-04-15 02:15:58 +0000",
       "minecraft:wooded_badlands": "2025-04-12 06:31:11 +0000",
       "minecraft:badlands": "2025-04-12 06:54:55 +0000",
@@ -53,6 +54,7 @@
       "minecraft:jungle": "2025-04-12 06:22:06 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-18 03:51:24 +0000",
       "minecraft:windswept_savanna": "2025-04-16 03:05:08 +0000",
+      "minecraft:flower_forest": "2025-04-18 04:21:17 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-15 02:15:38 +0000",
       "minecraft:deep_dark": "2025-04-06 02:42:52 +0000",
       "minecraft:meadow": "2025-04-18 04:08:48 +0000",
@@ -5185,9 +5187,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-04-18 04:15:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_helmet": {
     "criteria": {
       "has_item": "2025-04-18 04:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-18 04:15:04 +0000"
     },
     "done": true
   },
@@ -5254,6 +5268,12 @@
   "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
     "criteria": {
       "has_dragonscales_silver": "2025-04-18 04:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-18 04:15:04 +0000"
     },
     "done": true
   },
