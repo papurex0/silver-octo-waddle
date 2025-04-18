@@ -503,8 +503,10 @@
     "criteria": {
       "minecraft:pillager": "2025-04-17 02:52:08 +0000",
       "minecraft:skeleton": "2025-04-03 00:37:12 +0000",
+      "minecraft:ravager": "2025-04-18 02:29:34 +0000",
       "minecraft:ghast": "2025-04-14 00:54:01 +0000",
       "minecraft:hoglin": "2025-04-06 03:08:30 +0000",
+      "minecraft:vindicator": "2025-04-18 02:28:50 +0000",
       "minecraft:spider": "2025-04-03 02:23:18 +0000",
       "minecraft:creeper": "2025-04-03 00:36:56 +0000",
       "minecraft:phantom": "2025-04-06 00:23:04 +0000",
@@ -7935,6 +7937,18 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-04-18 02:23:42 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:pillager_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-04-18 02:29:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-18 02:29:44 +0000"
     },
     "done": true
   },
