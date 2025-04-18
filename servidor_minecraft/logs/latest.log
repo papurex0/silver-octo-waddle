@@ -410,3 +410,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Apr2025 02:39:13.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ahí dejé 3 camas
 [18Apr2025 02:39:23.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> hmmmmmmmm
 [18Apr2025 02:40:24.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys has made the advancement [Compressing ingots]
+[18Apr2025 02:43:09.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> mira priv ara
+[18Apr2025 02:45:55.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Apr2025 02:45:55.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
+[18Apr2025 02:47:32.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ola
+[18Apr2025 02:47:38.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> aprovechando
+[18Apr2025 02:47:51.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> gracias+
+[18Apr2025 02:47:53.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> sis
+[18Apr2025 02:48:06.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> colocalo pa tepearme jejej
+[18Apr2025 02:52:49.483] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kishyys lost connection: Disconnected
+[18Apr2025 02:52:49.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys left the game
+[18Apr2025 02:54:32.405] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kishyys[/127.120.207.226:38437] logged in with entity id 42804 at (-243.5200770560791, 71.5, -219.22092693780527)
+[18Apr2025 02:54:32.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys joined the game
+[18Apr2025 02:55:06.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kishyys lost connection: Disconnected
+[18Apr2025 02:55:06.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys left the game
