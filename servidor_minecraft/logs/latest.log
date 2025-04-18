@@ -549,3 +549,75 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Apr2025 03:54:03.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa joined the game
 [18Apr2025 03:54:08.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> tipi
 [18Apr2025 03:54:08.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4411ms or 88 ticks behind
+[18Apr2025 03:54:15.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Set own game mode to Creative Mode]
+[18Apr2025 03:54:41.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18192ms or 363 ticks behind
+[18Apr2025 03:55:03.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> calmación
+[18Apr2025 03:55:05.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8758ms or 175 ticks behind
+[18Apr2025 03:55:33.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Set own game mode to Survival Mode]
+[18Apr2025 03:55:35.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[18Apr2025 03:55:54.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4067ms or 81 ticks behind
+[18Apr2025 03:56:10.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Set own game mode to Creative Mode]
+[18Apr2025 03:56:15.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5381ms or 107 ticks behind
+[18Apr2025 03:56:37.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7460ms or 149 ticks behind
+[18Apr2025 03:56:56.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4008ms or 80 ticks behind
+[18Apr2025 03:57:19.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7526ms or 150 ticks behind
+[18Apr2025 03:57:40.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6764ms or 135 ticks behind
+[18Apr2025 03:57:46.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Set the time to 1000]
+[18Apr2025 03:58:03.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7699ms or 153 ticks behind
+[18Apr2025 03:58:21.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3470ms or 69 ticks behind
+[18Apr2025 03:58:44.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7502ms or 150 ticks behind
+[18Apr2025 03:59:13.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14034ms or 280 ticks behind
+[18Apr2025 03:59:21.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> okei ahora si
+[18Apr2025 03:59:26.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Set own game mode to Survival Mode]
+[18Apr2025 03:59:31.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Teleported Cakeyshere to r3xyzz]
+[18Apr2025 03:59:34.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> xd
+[18Apr2025 03:59:38.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10127ms or 202 ticks behind
+[18Apr2025 03:59:44.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> wtf?
+[18Apr2025 03:59:51.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> xd
+[18Apr2025 03:59:52.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> es tuyo? o_o
+[18Apr2025 03:59:55.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> no
+[18Apr2025 03:59:57.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> q
+[18Apr2025 04:00:00.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6829ms or 136 ticks behind
+[18Apr2025 04:00:00.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> y pq está quieto
+[18Apr2025 04:00:21.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5690ms or 113 ticks behind
+[18Apr2025 04:00:41.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5157ms or 103 ticks behind
+[18Apr2025 04:00:46.576] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Apr2025 04:00:58.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2674ms or 53 ticks behind
+[18Apr2025 04:01:03.133] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Apr2025 04:01:19.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5410ms or 108 ticks behind
+[18Apr2025 04:01:33.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> erm
+[18Apr2025 04:01:36.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> pq se quedó cmo
+[18Apr2025 04:01:38.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4152ms or 83 ticks behind
+[18Apr2025 04:01:40.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> esperando a q le dieramos el golpe
+[18Apr2025 04:01:41.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> nose
+[18Apr2025 04:01:41.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> XD?=
+[18Apr2025 04:02:02.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18Apr2025 04:02:03.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> calma
+[18Apr2025 04:02:07.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> sip
+[18Apr2025 04:02:25.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[18Apr2025 04:02:42.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 moved too quickly! 5.016679952957475,0.5040129017765196,9.038820083454084
+[18Apr2025 04:02:47.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7041ms or 140 ticks behind
+[18Apr2025 04:03:00.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KidGore6 moved too quickly! 6.351760129700779,0.7531999805212024,7.853641694225644
+[18Apr2025 04:03:02.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> haceme tp
+[18Apr2025 04:03:03.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> xd
+[18Apr2025 04:03:06.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> xd
+[18Apr2025 04:03:14.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11880ms or 237 ticks behind
+[18Apr2025 04:03:14.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Teleported r3xyzz to Cakeyshere]
+[18Apr2025 04:03:21.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Cobweb Entanglement]
+[18Apr2025 04:03:31.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> encontraste más dragones por acá?
+[18Apr2025 04:03:31.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2144ms or 42 ticks behind
+[18Apr2025 04:03:43.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> nop
+[18Apr2025 04:03:49.595] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2737ms or 54 ticks behind
+[18Apr2025 04:03:50.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> de ahi digo
+[18Apr2025 04:03:52.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> dale
+[18Apr2025 04:04:01.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> voy a estar en otra por mientras
+[18Apr2025 04:04:04.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Forged in Flame]
+[18Apr2025 04:04:18.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18Apr2025 04:04:26.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> otyro
+[18Apr2025 04:04:29.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> araceli
+[18Apr2025 04:04:30.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> orto
+[18Apr2025 04:04:31.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <r3xyzz> aca
+[18Apr2025 04:04:31.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> wtrfffffffffffffffff
+[18Apr2025 04:04:33.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> orto
+[18Apr2025 04:04:40.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7005ms or 140 ticks behind
+[18Apr2025 04:04:41.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Teleported Cakeyshere to r3xyzz]

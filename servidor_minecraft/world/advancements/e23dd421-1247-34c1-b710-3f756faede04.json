@@ -48,6 +48,7 @@
       "minecraft:stony_shore": "2025-04-01 00:07:10 +0000",
       "minecraft:snowy_plains": "2025-04-17 00:43:00 +0000",
       "minecraft:dripstone_caves": "2025-04-04 01:51:45 +0000",
+      "minecraft:snowy_taiga": "2025-04-18 03:49:08 +0000",
       "minecraft:grove": "2025-04-14 03:20:52 +0000",
       "minecraft:jagged_peaks": "2025-04-14 03:25:32 +0000",
       "minecraft:forest": "2025-04-01 00:02:56 +0000",
@@ -56,6 +57,7 @@
       "minecraft:desert": "2025-04-06 01:31:32 +0000",
       "minecraft:jungle": "2025-04-06 01:19:32 +0000",
       "minecraft:ocean": "2025-04-06 01:07:36 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-18 03:59:31 +0000",
       "minecraft:frozen_peaks": "2025-04-17 23:14:18 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-14 02:04:31 +0000",
       "minecraft:deep_dark": "2025-04-11 19:47:08 +0000",
@@ -5809,6 +5811,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-18 03:50:23 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-04-18 02:44:26 +0000"
@@ -5887,6 +5895,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "core": "2025-04-18 03:53:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-04-18 02:54:47 +0000"
@@ -5908,6 +5922,12 @@
   "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
     "criteria": {
       "has_sign": "2025-04-18 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-18 03:50:25 +0000"
     },
     "done": true
   },
@@ -5998,6 +6018,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-18 03:42:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-04-18 03:50:23 +0000"
     },
     "done": true
   },
@@ -6316,6 +6342,12 @@
   "cfm:recipes/decorations/spruce_table": {
     "criteria": {
       "has_planks": "2025-04-18 02:25:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-04-18 03:50:23 +0000"
     },
     "done": true
   },
