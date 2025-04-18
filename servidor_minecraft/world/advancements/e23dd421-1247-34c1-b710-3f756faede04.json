@@ -35,6 +35,7 @@
       "minecraft:old_growth_pine_taiga": "2025-04-18 04:04:42 +0000",
       "minecraft:taiga": "2025-04-15 02:18:00 +0000",
       "minecraft:eroded_badlands": "2025-04-06 02:39:37 +0000",
+      "minecraft:frozen_river": "2025-04-18 04:26:08 +0000",
       "minecraft:cherry_grove": "2025-04-17 23:14:20 +0000",
       "minecraft:birch_forest": "2025-04-15 02:16:02 +0000",
       "minecraft:wooded_badlands": "2025-04-06 02:18:00 +0000",
@@ -59,6 +60,7 @@
       "minecraft:jungle": "2025-04-06 01:19:32 +0000",
       "minecraft:ocean": "2025-04-06 01:07:36 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-18 03:59:31 +0000",
+      "minecraft:snowy_beach": "2025-04-18 04:33:07 +0000",
       "minecraft:frozen_peaks": "2025-04-17 23:14:18 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-14 02:04:31 +0000",
       "minecraft:deep_dark": "2025-04-11 19:47:08 +0000",
@@ -5878,6 +5880,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-04-18 04:22:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_table": {
     "criteria": {
       "has_log": "2025-04-18 02:54:44 +0000"
@@ -6268,6 +6276,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-04-18 04:28:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2025-04-18 02:44:26 +0000"
@@ -6280,6 +6294,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-04-18 04:22:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
     "criteria": {
       "has_sign": "2025-04-18 02:44:26 +0000"
@@ -6289,6 +6309,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-18 03:42:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-04-18 04:22:33 +0000"
     },
     "done": true
   },
