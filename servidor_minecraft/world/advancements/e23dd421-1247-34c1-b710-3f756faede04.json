@@ -5833,6 +5833,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonarmor_iron_neck": {
+    "criteria": {
+      "has_the_recipe": "2025-04-18 03:19:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
     "criteria": {
       "has_sign": "2025-04-18 02:44:26 +0000"
@@ -5914,6 +5920,12 @@
   "cfm:recipes/decorations/acacia_park_bench": {
     "criteria": {
       "has_log": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-04-18 03:16:13 +0000"
     },
     "done": true
   },
@@ -6013,6 +6025,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonarmor_iron_head": {
+    "criteria": {
+      "has_the_recipe": "2025-04-18 03:19:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
     "criteria": {
       "has_sign": "2025-04-18 02:44:26 +0000"
@@ -6025,9 +6043,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonarmor_iron_body": {
+    "criteria": {
+      "has_the_recipe": "2025-04-18 03:19:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
     "criteria": {
       "has_sign": "2025-04-18 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2025-04-18 03:19:10 +0000"
     },
     "done": true
   },
@@ -6088,6 +6118,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-04-18 02:25:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_tail": {
+    "criteria": {
+      "has_the_recipe": "2025-04-18 03:19:32 +0000"
     },
     "done": true
   },

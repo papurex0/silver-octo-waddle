@@ -7766,6 +7766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_ice_from_freezing": {
+    "criteria": {
+      "has_packed_ice": "2025-04-18 03:13:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-04-18 01:50:24 +0000"
