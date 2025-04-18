@@ -7266,159 +7266,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+  "cfm:recipes/decorations/rock_path": {
     "criteria": {
-      "has_item": "2025-04-17 00:16:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
-    "criteria": {
-      "has_light_gray_terracotta": "2025-04-17 03:52:55 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/cyan_kitchen_counter": {
-    "criteria": {
-      "has_stone": "2025-04-17 03:52:51 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/orcas_might": {
-    "criteria": {
-      "all_effects": "2025-04-17 00:39:24 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_leggings": {
-    "criteria": {
-      "has_item": "2025-04-16 23:43:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_desert_sword": {
-    "criteria": {
-      "has_item": "2025-04-17 03:49:11 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/purple_kitchen_counter": {
-    "criteria": {
-      "has_stone": "2025-04-17 03:52:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-04-16 23:35:12 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/blue_kitchen_counter": {
-    "criteria": {
-      "has_stone": "2025-04-17 03:52:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2025-04-17 01:01:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_glazed_terracotta": {
-    "criteria": {
-      "has_brown_terracotta": "2025-04-17 03:52:52 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/red_kitchen_counter": {
-    "criteria": {
-      "has_stone": "2025-04-17 03:52:51 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
-    "criteria": {
-      "has_copper_ingot": "2025-04-17 01:01:33 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_helmet": {
-    "criteria": {
-      "has_item": "2025-04-16 23:43:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_desert_shovel": {
-    "criteria": {
-      "has_item": "2025-04-17 03:49:11 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/gray_kitchen_counter": {
-    "criteria": {
-      "has_stone": "2025-04-17 03:52:51 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/green_kitchen_counter": {
-    "criteria": {
-      "has_stone": "2025-04-17 03:52:51 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/myrmex_resin": {
-    "criteria": {
-      "resin": "2025-04-17 03:49:16 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/pumpkin": {
-    "criteria": {
-      "has_pumpkin": "2025-04-17 03:50:45 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_flute": {
-    "criteria": {
-      "bestiary": "2025-04-17 01:11:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_desert_axe": {
-    "criteria": {
-      "has_item": "2025-04-17 03:49:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-04-17 03:50:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2025-04-17 01:01:33 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
-    "criteria": {
-      "has_item": "2025-04-17 03:46:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_desert_hoe": {
-    "criteria": {
-      "has_item": "2025-04-17 03:49:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
-    "criteria": {
-      "has_dragonscales_white": "2025-04-16 23:43:53 +0000"
+      "has_andesite": "2025-04-16 23:30:55 +0000"
     },
     "done": true
   },
@@ -7434,75 +7284,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/brush": {
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
-      "has_copper_ingot": "2025-04-17 01:01:33 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-16 23:43:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-04-17 00:39:50 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/pink_kitchen_counter": {
-    "criteria": {
-      "has_stone": "2025-04-17 03:52:51 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/frost_troll_leather_boots": {
-    "criteria": {
-      "has_item": "2025-04-17 00:16:11 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/gray_sofa": {
-    "criteria": {
-      "has_wool": "2025-04-17 02:50:54 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/orange_kitchen_counter": {
-    "criteria": {
-      "has_stone": "2025-04-17 03:52:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_the_recipe": "2025-04-17 03:39:32 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/codebreaker": {
-    "criteria": {
-      "has_nether_star": "2025-04-16 23:34:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-04-17 02:30:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
-    "criteria": {
-      "has_salmon": "2025-04-17 00:39:50 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/light_blue_kitchen_counter": {
-    "criteria": {
-      "has_stone": "2025-04-17 03:52:51 +0000"
+      "has_raw_copper": "2025-04-16 23:31:43 +0000"
     },
     "done": true
   },
@@ -7512,123 +7296,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_egg": {
+  "securitycraft:recipes/tools/codebreaker": {
     "criteria": {
-      "egg": "2025-04-16 23:59:12 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/kangaroo": {
-    "criteria": {
-      "killed": "2025-04-17 04:10:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_myrmex": {
-    "criteria": {
-      "chitin": "2025-04-17 03:49:11 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/white_kitchen_counter": {
-    "criteria": {
-      "has_stone": "2025-04-17 03:52:51 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/magenta_kitchen_counter": {
-    "criteria": {
-      "has_stone": "2025-04-17 03:52:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_glazed_terracotta": {
-    "criteria": {
-      "has_orange_terracotta": "2025-04-17 03:52:54 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/rocky_roller": {
-    "criteria": {
-      "killed": "2025-04-16 23:46:37 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/lime_kitchen_counter": {
-    "criteria": {
-      "has_stone": "2025-04-17 03:52:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-04-17 00:39:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_desert_helmet": {
-    "criteria": {
-      "has_item": "2025-04-17 03:49:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-04-17 00:37:02 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_boots": {
-    "criteria": {
-      "has_item": "2025-04-16 23:43:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-04-17 03:50:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_sandstone": {
-    "criteria": {
-      "has_sand": "2025-04-17 03:52:49 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/rocky_shell": {
-    "criteria": {
-      "soul_heart": "2025-04-16 23:46:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-04-16 23:35:12 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/rock_path": {
-    "criteria": {
-      "has_andesite": "2025-04-16 23:30:55 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
-    "criteria": {
-      "has_copper_ingot": "2025-04-17 01:01:33 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/myrmex_resin_desert": {
-    "criteria": {
-      "has_item": "2025-04-17 03:49:16 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_desert_pickaxe": {
-    "criteria": {
-      "has_item": "2025-04-17 03:49:11 +0000"
+      "has_nether_star": "2025-04-16 23:34:41 +0000"
     },
     "done": true
   },
@@ -7638,63 +7308,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-16 23:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-04-16 23:35:12 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/yellow_kitchen_counter": {
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
-      "has_stone": "2025-04-17 03:52:51 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
-    "criteria": {
-      "has_silver_nugget": "2025-04-16 23:52:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-04-17 00:39:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_desert_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-17 03:49:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_desert_leggings": {
-    "criteria": {
-      "has_item": "2025-04-17 03:49:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_desert_boots": {
-    "criteria": {
-      "has_item": "2025-04-17 03:49:11 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/black_kitchen_counter": {
-    "criteria": {
-      "has_stone": "2025-04-17 03:52:51 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:warden_treasure_bag": {
-    "criteria": {
-      "bag_opened": "2025-04-17 03:26:35 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/light_gray_kitchen_counter": {
-    "criteria": {
-      "has_stone": "2025-04-17 03:52:51 +0000"
+      "has_nether_wart": "2025-04-16 23:35:12 +0000"
     },
     "done": true
   },
@@ -7722,9 +7350,147 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/brown_kitchen_counter": {
+  "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
-      "has_stone": "2025-04-17 03:52:51 +0000"
+      "has_blaze_rod": "2025-04-16 23:35:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-04-16 23:43:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-04-16 23:43:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-04-16 23:43:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-16 23:43:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-04-16 23:43:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed": "2025-04-16 23:46:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_shell": {
+    "criteria": {
+      "soul_heart": "2025-04-16 23:46:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-04-16 23:52:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-04-16 23:59:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-17 00:16:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-04-17 00:16:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-04-17 00:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-17 00:37:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-04-17 00:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-04-17 00:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2025-04-17 00:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-04-17 00:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-04-17 00:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 01:01:33 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 01:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 01:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 01:01:33 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-17 01:01:33 +0000"
     },
     "done": true
   },
@@ -7734,21 +7500,255 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
-      "has_blaze_rod": "2025-04-16 23:35:12 +0000"
+      "bestiary": "2025-04-17 01:11:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
-      "has_raw_copper": "2025-04-16 23:31:43 +0000"
+      "has_cornflower": "2025-04-17 02:30:14 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+  "cfm:recipes/decorations/gray_sofa": {
     "criteria": {
-      "has_item": "2025-04-17 00:16:11 +0000"
+      "has_wool": "2025-04-17 02:50:54 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-04-17 03:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 03:39:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2025-04-17 03:46:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_sword": {
+    "criteria": {
+      "has_item": "2025-04-17 03:49:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_shovel": {
+    "criteria": {
+      "has_item": "2025-04-17 03:49:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_axe": {
+    "criteria": {
+      "has_item": "2025-04-17 03:49:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_hoe": {
+    "criteria": {
+      "has_item": "2025-04-17 03:49:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2025-04-17 03:49:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_helmet": {
+    "criteria": {
+      "has_item": "2025-04-17 03:49:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-17 03:49:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-17 03:49:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_leggings": {
+    "criteria": {
+      "has_item": "2025-04-17 03:49:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_boots": {
+    "criteria": {
+      "has_item": "2025-04-17 03:49:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/myrmex_resin": {
+    "criteria": {
+      "resin": "2025-04-17 03:49:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/myrmex_resin_desert": {
+    "criteria": {
+      "has_item": "2025-04-17 03:49:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-04-17 03:50:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-04-17 03:50:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-04-17 03:50:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-17 03:52:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_kitchen_counter": {
+    "criteria": {
+      "has_stone": "2025-04-17 03:52:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_kitchen_counter": {
+    "criteria": {
+      "has_stone": "2025-04-17 03:52:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_kitchen_counter": {
+    "criteria": {
+      "has_stone": "2025-04-17 03:52:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_kitchen_counter": {
+    "criteria": {
+      "has_stone": "2025-04-17 03:52:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_kitchen_counter": {
+    "criteria": {
+      "has_stone": "2025-04-17 03:52:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_kitchen_counter": {
+    "criteria": {
+      "has_stone": "2025-04-17 03:52:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_kitchen_counter": {
+    "criteria": {
+      "has_stone": "2025-04-17 03:52:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_kitchen_counter": {
+    "criteria": {
+      "has_stone": "2025-04-17 03:52:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_kitchen_counter": {
+    "criteria": {
+      "has_stone": "2025-04-17 03:52:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_kitchen_counter": {
+    "criteria": {
+      "has_stone": "2025-04-17 03:52:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_kitchen_counter": {
+    "criteria": {
+      "has_stone": "2025-04-17 03:52:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_kitchen_counter": {
+    "criteria": {
+      "has_stone": "2025-04-17 03:52:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_kitchen_counter": {
+    "criteria": {
+      "has_stone": "2025-04-17 03:52:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_kitchen_counter": {
+    "criteria": {
+      "has_stone": "2025-04-17 03:52:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_kitchen_counter": {
+    "criteria": {
+      "has_stone": "2025-04-17 03:52:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_kitchen_counter": {
+    "criteria": {
+      "has_stone": "2025-04-17 03:52:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2025-04-17 03:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-04-17 03:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2025-04-17 03:52:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed": "2025-04-17 04:10:23 +0000"
     },
     "done": true
   },
