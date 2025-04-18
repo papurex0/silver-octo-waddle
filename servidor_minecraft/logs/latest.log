@@ -351,3 +351,46 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Apr2025 02:19:54.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> ola
 [18Apr2025 02:20:09.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> hi
 [18Apr2025 02:20:14.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> los fantasmas q spawnean a partir de la tierra maldita esa te la dan
+[18Apr2025 02:20:21.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[18Apr2025 02:20:22.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> los q spawnean a partir de los cofres nop
+[18Apr2025 02:20:42.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5841ms or 116 ticks behind
+[18Apr2025 02:20:42.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> lo q hice yo fue nomás quedarme en un cementerio y llenarla con esa tierra q se hace con ectoplasma
+[18Apr2025 02:20:48.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> y tener mucha paciencia
+[18Apr2025 02:21:30.020] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Apr2025 02:21:30.720] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Apr2025 02:21:34.569] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Apr2025 02:21:35.267] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Apr2025 02:21:38.618] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Apr2025 02:21:40.036] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Apr2025 02:21:40.934] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Apr2025 02:21:41.600] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Apr2025 02:21:44.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Apr2025 02:21:46.421] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Apr2025 02:21:46.965] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Apr2025 02:21:47.620] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Apr2025 02:21:51.307] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Apr2025 02:21:52.470] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Apr2025 02:21:53.171] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Apr2025 02:21:53.820] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Apr2025 02:21:57.219] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Apr2025 02:21:58.618] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Apr2025 02:21:59.319] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Apr2025 02:22:00.101] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Apr2025 02:22:03.471] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Apr2025 02:22:52.418] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matelunaaa[/127.120.207.226:53861] logged in with entity id 19166 at (-317.5086867124971, 94.02442408821369, 138.30000001192093)
+[18Apr2025 02:22:52.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa joined the game
+[18Apr2025 02:22:56.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ola
+[18Apr2025 02:23:42.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Voluntary Exile]
+[18Apr2025 02:25:16.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matelunaaa moved wrongly!
+[18Apr2025 02:26:01.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matelunaaa lost connection: Disconnected
+[18Apr2025 02:26:01.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa left the game
+[18Apr2025 02:26:05.538] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matelunaaa[/127.120.207.226:51121] logged in with entity id 21993 at (-348.5075984270715, 93.0, 111.95430115564761)
+[18Apr2025 02:26:05.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa joined the game
+[18Apr2025 02:26:20.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> Q
+[18Apr2025 02:27:31.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> DE donde están invadiendo lol
+[18Apr2025 02:27:40.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Teleported Cakeyshere to Matelunaaa]
+[18Apr2025 02:28:40.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere has made the advancement [Voluntary Exile]
+[18Apr2025 02:29:44.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere has completed the challenge [Hero of the Village]
+[18Apr2025 02:29:44.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has completed the challenge [Hero of the Village]
+[18Apr2025 02:29:50.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [The Guardian]
+[18Apr2025 02:30:01.143] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-290, y=112, z=326} BlockPos{x=-346, y=94, z=331}
