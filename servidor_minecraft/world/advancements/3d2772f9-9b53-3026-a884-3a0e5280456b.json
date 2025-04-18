@@ -40,6 +40,7 @@
       "minecraft:sunflower_plains": "2025-04-18 04:06:18 +0000",
       "minecraft:birch_forest": "2025-04-12 05:34:59 +0000",
       "minecraft:wooded_badlands": "2025-04-12 06:29:32 +0000",
+      "minecraft:bamboo_jungle": "2025-04-18 06:48:12 +0000",
       "minecraft:badlands": "2025-04-11 04:36:16 +0000",
       "minecraft:savanna_plateau": "2025-04-04 01:41:10 +0000",
       "minecraft:beach": "2025-04-12 06:59:00 +0000",
@@ -7935,6 +7936,18 @@
   "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
     "criteria": {
       "has_sign": "2025-04-18 05:42:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-18 07:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-18 07:06:04 +0000"
     },
     "done": true
   },
