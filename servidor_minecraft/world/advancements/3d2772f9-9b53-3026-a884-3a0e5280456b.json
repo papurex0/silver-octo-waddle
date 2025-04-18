@@ -7888,6 +7888,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
+    "criteria": {
+      "has_item": "2025-04-18 05:53:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
     "criteria": {
       "has_sign": "2025-04-18 05:42:45 +0000"
@@ -7954,6 +7960,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+    "criteria": {
+      "has_item": "2025-04-18 05:53:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
     "criteria": {
       "has_sign": "2025-04-18 05:42:45 +0000"
@@ -7996,6 +8008,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2025-04-18 05:53:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2025-04-18 05:42:45 +0000"
@@ -8005,6 +8023,12 @@
   "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
     "criteria": {
       "has_sign": "2025-04-18 05:42:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-18 05:53:26 +0000"
     },
     "done": true
   },
