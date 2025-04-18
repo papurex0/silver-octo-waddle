@@ -5803,36 +5803,6 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/acacia_cabinet": {
-    "criteria": {
-      "has_log": "2025-04-18 02:54:44 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/acacia_chair": {
-    "criteria": {
-      "has_log": "2025-04-18 02:54:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-18 03:50:23 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
-    "criteria": {
-      "has_sign": "2025-04-18 02:44:26 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
-    "criteria": {
-      "has_log": "2025-04-18 04:50:14 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/spruce_coffee_table": {
     "criteria": {
       "has_planks": "2025-04-18 02:25:23 +0000"
@@ -5845,141 +5815,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragonsteel": {
-    "criteria": {
-      "steel": "2025-04-18 05:18:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
-    "criteria": {
-      "has_item": "2025-04-18 03:42:08 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_acacia_kitchen_drawer": {
-    "criteria": {
-      "has_log": "2025-04-18 02:54:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonsteel_ice_helmet": {
-    "criteria": {
-      "has_item": "2025-04-18 05:18:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_iron_neck": {
-    "criteria": {
-      "has_the_recipe": "2025-04-18 03:19:19 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-04-18 02:44:26 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/acacia_desk": {
-    "criteria": {
-      "has_log": "2025-04-18 02:54:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
-    "criteria": {
-      "has_item": "2025-04-18 03:42:08 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/acacia_upgraded_fence": {
-    "criteria": {
-      "has_log": "2025-04-18 02:54:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2025-04-18 04:22:33 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/acacia_table": {
-    "criteria": {
-      "has_log": "2025-04-18 02:54:44 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-04-18 02:44:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-04-18 02:28:40 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_forge_core": {
-    "criteria": {
-      "core": "2025-04-18 03:53:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-04-18 02:54:47 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/spruce_desk": {
     "criteria": {
       "has_planks": "2025-04-18 02:25:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonsteel_ice_leggings": {
-    "criteria": {
-      "has_item": "2025-04-18 05:18:03 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_park_bench": {
-    "criteria": {
-      "has_log": "2025-04-18 04:50:14 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-04-18 02:44:26 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-04-18 02:44:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_ice_shovel": {
-    "criteria": {
-      "has_item": "2025-04-18 05:18:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-04-18 03:50:25 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/acacia_kitchen_counter": {
-    "criteria": {
-      "has_log": "2025-04-18 02:54:44 +0000"
     },
     "done": true
   },
@@ -5989,93 +5827,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
-    "criteria": {
-      "has_sign": "2025-04-18 02:44:26 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_cabinet": {
-    "criteria": {
-      "has_log": "2025-04-18 04:50:14 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/acacia_park_bench": {
-    "criteria": {
-      "has_log": "2025-04-18 02:54:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_flute": {
-    "criteria": {
-      "bestiary": "2025-04-18 03:16:13 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
-    "criteria": {
-      "has_sign": "2025-04-18 02:44:26 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_coffee_table": {
-    "criteria": {
-      "has_planks": "2025-04-18 04:50:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-04-18 02:25:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_ice_from_freezing": {
-    "criteria": {
-      "has_packed_ice": "2025-04-18 03:35:10 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_acacia_bedside_cabinet": {
-    "criteria": {
-      "has_planks": "2025-04-18 02:54:44 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/acacia_kitchen_drawer": {
-    "criteria": {
-      "has_log": "2025-04-18 02:54:44 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_acacia_coffee_table": {
-    "criteria": {
-      "has_planks": "2025-04-18 02:54:44 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/acacia_blinds": {
-    "criteria": {
-      "has_log": "2025-04-18 02:54:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_helmet": {
-    "criteria": {
-      "has_item": "2025-04-18 04:21:26 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_chair": {
-    "criteria": {
-      "has_planks": "2025-04-18 04:50:14 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-04-18 02:44:26 +0000"
     },
     "done": true
   },
@@ -6085,183 +5839,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_leggings": {
-    "criteria": {
-      "has_item": "2025-04-18 04:21:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_ice_sword": {
-    "criteria": {
-      "has_item": "2025-04-18 05:18:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-18 03:42:08 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/frost_troll_leather_boots": {
-    "criteria": {
-      "has_item": "2025-04-18 03:50:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonsteel_ice_boots": {
-    "criteria": {
-      "has_item": "2025-04-18 05:18:03 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_upgraded_fence": {
-    "criteria": {
-      "has_log": "2025-04-18 04:50:14 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/acacia_desk_cabinet": {
-    "criteria": {
-      "has_log": "2025-04-18 02:54:44 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_acacia_desk_cabinet": {
-    "criteria": {
-      "has_planks": "2025-04-18 02:54:44 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/acacia_bedside_cabinet": {
-    "criteria": {
-      "has_log": "2025-04-18 02:54:44 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
-    "criteria": {
-      "has_sign": "2025-04-18 02:44:26 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
-    "criteria": {
-      "has_sign": "2025-04-18 02:44:26 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/spruce_park_bench": {
     "criteria": {
       "has_planks": "2025-04-18 02:25:23 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_acacia_cabinet": {
-    "criteria": {
-      "has_log": "2025-04-18 02:54:44 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_acacia_crate": {
-    "criteria": {
-      "has_planks": "2025-04-18 02:54:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/chain": {
-    "criteria": {
-      "has_item": "2025-04-18 04:21:26 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/froststalker_kill": {
-    "criteria": {
-      "ex": "2025-04-18 03:35:00 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_iron_head": {
-    "criteria": {
-      "has_the_recipe": "2025-04-18 03:19:10 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-04-18 02:44:26 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_table": {
-    "criteria": {
-      "has_planks": "2025-04-18 04:50:14 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_sign_item": {
-    "criteria": {
-      "has_sign": "2025-04-18 02:44:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-18 03:42:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_boots": {
-    "criteria": {
-      "has_item": "2025-04-18 04:21:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_iron_body": {
-    "criteria": {
-      "has_the_recipe": "2025-04-18 03:19:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-04-18 04:20:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-18 03:42:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-18 03:42:08 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-04-18 02:44:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonarmor": {
-    "criteria": {
-      "iron": "2025-04-18 03:19:10 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
-    "criteria": {
-      "has_item": "2025-04-18 03:42:08 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
-    "criteria": {
-      "has_sign": "2025-04-18 02:44:26 +0000"
     },
     "done": true
   },
@@ -6271,57 +5851,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/spruce_blinds": {
-    "criteria": {
-      "has_log": "2025-04-18 04:50:14 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_crate": {
-    "criteria": {
-      "has_planks": "2025-04-18 04:50:14 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/rock_path": {
-    "criteria": {
-      "has_stone": "2025-04-18 03:40:57 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-04-18 02:44:26 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_planks": "2025-04-18 02:25:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-04-18 04:50:14 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
-    "criteria": {
-      "has_sign": "2025-04-18 02:44:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-04-18 02:29:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-18 04:21:26 +0000"
     },
     "done": true
   },
@@ -6331,111 +5863,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
-    "criteria": {
-      "has_sign": "2025-04-18 02:44:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonsteel_ice_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-18 05:18:03 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_acacia_table": {
-    "criteria": {
-      "has_planks": "2025-04-18 02:54:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-18 03:42:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-04-18 02:25:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_iron_tail": {
-    "criteria": {
-      "has_the_recipe": "2025-04-18 03:19:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_ice_spikes": {
-    "criteria": {
-      "has_item": "2025-04-18 04:50:14 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_sapphire_to_dragonscales_sapphire": {
-    "criteria": {
-      "has_dragonscale_sapphire": "2025-04-18 03:42:26 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/acacia_coffee_table": {
-    "criteria": {
-      "has_log": "2025-04-18 02:54:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/food/frost_stew": {
-    "criteria": {
-      "has_item": "2025-04-18 04:36:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-04-18 04:28:26 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-04-18 02:44:26 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_acacia_park_bench": {
-    "criteria": {
-      "has_log": "2025-04-18 02:54:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2025-04-18 04:22:33 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonsteel_ice_ingot_to_dragonsteel_ice_block": {
-    "criteria": {
-      "has_dragonsteel_ice_ingot": "2025-04-18 05:18:03 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
-    "criteria": {
-      "has_sign": "2025-04-18 02:44:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-18 03:42:08 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2025-04-18 04:22:33 +0000"
     },
     "done": true
   },
@@ -6445,27 +5875,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_acacia_kitchen_counter": {
-    "criteria": {
-      "has_log": "2025-04-18 02:54:44 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_acacia_desk": {
-    "criteria": {
-      "has_planks": "2025-04-18 02:54:44 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/spruce_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-04-18 02:25:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_ice_axe": {
-    "criteria": {
-      "has_item": "2025-04-18 05:18:03 +0000"
     },
     "done": true
   },
@@ -6493,15 +5905,603 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_spruce_desk": {
+  "cfm:recipes/decorations/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-04-18 02:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-18 02:25:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_table": {
+    "criteria": {
+      "has_planks": "2025-04-18 02:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-18 02:28:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-18 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-18 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-18 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-18 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-18 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-18 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-18 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-18 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-18 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-18 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-18 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-18 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-18 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-18 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-18 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-18 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-18 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-18 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-18 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-18 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-18 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-18 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-18 02:44:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_chair": {
+    "criteria": {
+      "has_log": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_desk": {
+    "criteria": {
+      "has_log": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_table": {
+    "criteria": {
+      "has_log": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_park_bench": {
+    "criteria": {
+      "has_log": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_blinds": {
+    "criteria": {
+      "has_log": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_crate": {
+    "criteria": {
+      "has_planks": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_table": {
+    "criteria": {
+      "has_planks": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_coffee_table": {
+    "criteria": {
+      "has_log": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_park_bench": {
+    "criteria": {
+      "has_log": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_desk": {
+    "criteria": {
+      "has_planks": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_crate": {
+    "criteria": {
+      "has_log": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_chair": {
+    "criteria": {
+      "has_planks": "2025-04-18 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-18 02:54:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-04-18 03:16:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_head": {
+    "criteria": {
+      "has_the_recipe": "2025-04-18 03:19:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2025-04-18 03:19:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_neck": {
+    "criteria": {
+      "has_the_recipe": "2025-04-18 03:19:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_body": {
+    "criteria": {
+      "has_the_recipe": "2025-04-18 03:19:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_tail": {
+    "criteria": {
+      "has_the_recipe": "2025-04-18 03:19:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2025-04-18 03:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_ice_from_freezing": {
+    "criteria": {
+      "has_packed_ice": "2025-04-18 03:35:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/rock_path": {
+    "criteria": {
+      "has_stone": "2025-04-18 03:40:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-04-18 03:42:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-04-18 03:42:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-18 03:42:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-18 03:42:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-18 03:42:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-18 03:42:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-04-18 03:42:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-18 03:42:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-18 03:42:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_sapphire_to_dragonscales_sapphire": {
+    "criteria": {
+      "has_dragonscale_sapphire": "2025-04-18 03:42:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-18 03:50:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-04-18 03:50:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-04-18 03:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-18 03:50:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "core": "2025-04-18 03:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-18 04:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-18 04:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-04-18 04:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-04-18 04:21:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-04-18 04:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-04-18 04:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-18 04:21:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-04-18 04:22:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-04-18 04:22:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-04-18 04:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-04-18 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/frost_stew": {
+    "criteria": {
+      "has_item": "2025-04-18 04:36:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-04-18 04:50:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_park_bench": {
+    "criteria": {
+      "has_log": "2025-04-18 04:50:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-18 04:50:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_coffee_table": {
     "criteria": {
       "has_planks": "2025-04-18 04:50:14 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonsteel_ice_hoe": {
+  "cfm:recipes/decorations/stripped_spruce_chair": {
     "criteria": {
-      "has_item": "2025-04-18 05:18:03 +0000"
+      "has_planks": "2025-04-18 04:50:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-04-18 04:50:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_table": {
+    "criteria": {
+      "has_planks": "2025-04-18 04:50:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_blinds": {
+    "criteria": {
+      "has_log": "2025-04-18 04:50:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_crate": {
+    "criteria": {
+      "has_planks": "2025-04-18 04:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-18 04:50:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2025-04-18 04:50:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk": {
+    "criteria": {
+      "has_planks": "2025-04-18 04:50:14 +0000"
     },
     "done": true
   },
@@ -6517,75 +6517,75 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/acacia_crate": {
-    "criteria": {
-      "has_log": "2025-04-18 02:54:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-04-18 04:20:47 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
-    "criteria": {
-      "has_sign": "2025-04-18 02:44:26 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_kitchen_drawer": {
-    "criteria": {
-      "has_planks": "2025-04-18 02:25:23 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_acacia_chair": {
-    "criteria": {
-      "has_planks": "2025-04-18 02:54:44 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-04-18 02:44:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_ice_pickaxe": {
-    "criteria": {
-      "has_item": "2025-04-18 05:18:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
-    "criteria": {
-      "has_planks": "2025-04-18 02:25:23 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-04-18 04:50:14 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/spruce_table": {
+  "iceandfire:iceandfire/dragonsteel": {
     "criteria": {
-      "has_planks": "2025-04-18 02:25:23 +0000"
+      "steel": "2025-04-18 05:18:03 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+  "iceandfire:recipes/combat/dragonsteel_ice_helmet": {
     "criteria": {
-      "has_item": "2025-04-18 03:50:23 +0000"
+      "has_item": "2025-04-18 05:18:03 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
+  "iceandfire:recipes/combat/dragonsteel_ice_leggings": {
     "criteria": {
-      "has_sign": "2025-04-18 02:44:26 +0000"
+      "has_item": "2025-04-18 05:18:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_shovel": {
+    "criteria": {
+      "has_item": "2025-04-18 05:18:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_sword": {
+    "criteria": {
+      "has_item": "2025-04-18 05:18:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_ice_boots": {
+    "criteria": {
+      "has_item": "2025-04-18 05:18:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_ice_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-18 05:18:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonsteel_ice_ingot_to_dragonsteel_ice_block": {
+    "criteria": {
+      "has_dragonsteel_ice_ingot": "2025-04-18 05:18:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_axe": {
+    "criteria": {
+      "has_item": "2025-04-18 05:18:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_hoe": {
+    "criteria": {
+      "has_item": "2025-04-18 05:18:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-18 05:18:03 +0000"
     },
     "done": true
   },
