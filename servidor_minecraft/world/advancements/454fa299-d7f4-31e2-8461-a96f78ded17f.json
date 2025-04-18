@@ -405,6 +405,7 @@
       "minecraft:hoglin": "2025-04-12 01:37:28 +0000",
       "minecraft:spider": "2025-04-03 02:25:59 +0000",
       "minecraft:creeper": "2025-04-11 02:45:03 +0000",
+      "minecraft:zombified_piglin": "2025-04-18 05:30:12 +0000",
       "minecraft:witch": "2025-04-05 00:18:56 +0000",
       "minecraft:wither_skeleton": "2025-04-12 06:00:24 +0000",
       "minecraft:husk": "2025-04-12 05:59:28 +0000",
@@ -5218,9 +5219,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-18 05:30:05 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/chain": {
     "criteria": {
       "has_item": "2025-04-18 04:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-04-18 05:30:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-04-18 05:30:05 +0000"
     },
     "done": true
   },
@@ -5257,6 +5276,12 @@
   "iceandfire:recipes/combat/armor_bronze_boots": {
     "criteria": {
       "has_item": "2025-04-18 04:28:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-18 05:30:05 +0000"
     },
     "done": true
   },
