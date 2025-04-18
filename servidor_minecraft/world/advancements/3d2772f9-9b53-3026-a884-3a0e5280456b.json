@@ -37,6 +37,7 @@
       "minecraft:eroded_badlands": "2025-04-11 04:36:10 +0000",
       "minecraft:frozen_river": "2025-04-13 00:36:07 +0000",
       "minecraft:cherry_grove": "2025-04-15 04:16:40 +0000",
+      "minecraft:sunflower_plains": "2025-04-18 04:06:18 +0000",
       "minecraft:birch_forest": "2025-04-12 05:34:59 +0000",
       "minecraft:wooded_badlands": "2025-04-12 06:29:32 +0000",
       "minecraft:badlands": "2025-04-11 04:36:16 +0000",
@@ -5086,7 +5087,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-04-14 00:47:04 +0000"
+      "in_better_zombie_dungeon": "2025-04-14 00:47:04 +0000",
+      "in_better_spider_dungeon": "2025-04-18 04:03:21 +0000"
     },
     "done": false
   },
@@ -7787,6 +7789,12 @@
   "iceandfire:recipes/building_blocks/crackled_to_gravel": {
     "criteria": {
       "has_item": "2025-04-18 02:17:21 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-18 04:03:21 +0000"
     },
     "done": true
   },
