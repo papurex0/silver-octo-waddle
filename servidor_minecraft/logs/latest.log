@@ -178,3 +178,130 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Apr2025 01:48:43.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> pero tranqui
 [18Apr2025 01:48:50.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> seguro?
 [18Apr2025 01:48:50.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> si estan muertos aqui
+[18Apr2025 01:48:55.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> aaa
+[18Apr2025 01:48:55.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> recolecto dnvo nomas
+[18Apr2025 01:48:59.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> puedes volver a tomarlo
+[18Apr2025 01:49:00.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> dale tocnes
+[18Apr2025 01:49:14.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[18Apr2025 01:49:33.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4013ms or 80 ticks behind
+[18Apr2025 01:49:42.126] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Apr2025 01:49:57.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[18Apr2025 01:50:22.712] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2954ms or 59 ticks behind
+[18Apr2025 01:50:24.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [A Terrible Fortress]
+[18Apr2025 01:50:33.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> eeeee
+[18Apr2025 01:50:37.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> y esto?
+[18Apr2025 01:50:40.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> q cosa
+[18Apr2025 01:50:42.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> jeje
+[18Apr2025 01:50:46.246] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[18Apr2025 01:50:59.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> tu hiciste lo de la blaze farm?
+[18Apr2025 01:51:02.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> sis
+[18Apr2025 01:51:04.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> wena
+[18Apr2025 01:51:10.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> para blaze rods gratis
+[18Apr2025 01:51:15.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> y aprovechando experiencia
+[18Apr2025 01:51:20.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> que pudiste rescataste de la fortaleza?
+[18Apr2025 01:51:31.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> fui a la fortaleza a puro hacer la blaze farm
+[18Apr2025 01:51:35.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> no exploré más la verda
+[18Apr2025 01:51:37.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> te toco la tablilla pa upgradear a netherita?
+[18Apr2025 01:51:41.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> nop
+[18Apr2025 01:51:47.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> igual capás puede haber
+[18Apr2025 01:51:52.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> pq de nuevo no exploré mucho
+[18Apr2025 01:52:10.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> aprovechare de sacar varitas
+[18Apr2025 01:52:13.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> sis
+[18Apr2025 01:52:14.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> dale nomá
+[18Apr2025 01:52:18.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> me acabas de salvar la vida
+[18Apr2025 01:52:20.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> hay una waypoint por ahí
+[18Apr2025 01:52:26.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> sisi me salio solo
+[18Apr2025 01:52:28.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> iba a avisar q hcie una blaze farm pero
+[18Apr2025 01:52:30.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> se me olvidó
+[18Apr2025 01:52:30.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> wena
+[18Apr2025 01:52:36.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> en amarillo
+[18Apr2025 01:58:29.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> ya tienes el horno al maximo?
+[18Apr2025 01:58:35.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> cmo eso?
+[18Apr2025 01:58:42.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> el horno de dragon
+[18Apr2025 01:58:46.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> aaa
+[18Apr2025 01:58:46.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> no
+[18Apr2025 01:58:48.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> pero
+[18Apr2025 01:58:51.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> me voy a robar el del mate
+[18Apr2025 01:58:52.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> jiji
+[18Apr2025 01:58:58.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> sakjladskasdjdal
+[18Apr2025 01:59:12.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> aunq me la estoy doble pensando pq ahí tiene varios dragones cmo para ahí poner el mío para hacer mi armadura
+[18Apr2025 01:59:20.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> claro
+[18Apr2025 01:59:24.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> asi q toy considerando
+[18Apr2025 01:59:39.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> ayer pense que moriria contra esos 2 dragones fase 5 csm
+[18Apr2025 01:59:50.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> los 2 a la vez?
+[18Apr2025 01:59:51.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> o_o
+[18Apr2025 01:59:53.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> si
+[18Apr2025 01:59:56.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> wtfffffffffffffffffffffffff
+[18Apr2025 02:00:07.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> no hiciste la téncica de cavar hacia abajo y darles con las flechas nomás?¡
+[18Apr2025 02:00:17.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> uno cuando ya es bueno no le teme a la muerte a menos que sea contra del warden
+[18Apr2025 02:00:24.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> verda
+[18Apr2025 02:00:32.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> que ese es mas duro que pastero en esquina
+[18Apr2025 02:00:38.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ent odo caso
+[18Apr2025 02:00:39.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> XDD
+[18Apr2025 02:00:47.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> mob ql roto
+[18Apr2025 02:00:58.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> es q de todas maneras no se supone q debería matarse pero
+[18Apr2025 02:01:01.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> a pero vieron que el mazo ql estaba roto lo nerfearon altiro
+[18Apr2025 02:01:12.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> lo nerfearon?
+[18Apr2025 02:01:13.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> no wei
+[18Apr2025 02:01:14.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> si
+[18Apr2025 02:01:26.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> penca
+[18Apr2025 02:01:30.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> yo ya lo tengo en mi tecnico full encantamientos
+[18Apr2025 02:01:37.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> lol
+[18Apr2025 02:01:39.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> algun te mostrare el tecnico que tengo
+[18Apr2025 02:01:51.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> brígido
+[18Apr2025 02:01:59.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> de todo eso me sé nomás cmo
+[18Apr2025 02:02:03.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> un tercio de todo
+[18Apr2025 02:02:04.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> ahora estoy haciendo la granja de algas para mi horno industrial con el autocrafter
+[18Apr2025 02:02:17.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> se me olvida q ahora existe esa wea
+[18Apr2025 02:02:23.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> si es re divertida
+[18Apr2025 02:02:42.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> no es dificild e usar?
+[18Apr2025 02:02:48.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> la verdad nop
+[18Apr2025 02:03:03.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> normalmente se usa para granjas o cosas que se estaquean de mas
+[18Apr2025 02:03:09.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> mmmmmmmmmmmmmmmmmm
+[18Apr2025 02:03:12.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> ejemplo yo lo tengo en mi granja de oro
+[18Apr2025 02:03:27.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> y para q lo usas?
+[18Apr2025 02:03:35.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> porque los piglins te dropean solo pepitas y con el mecanismo hago que pasen a lingotes y despues a bloques de oro
+[18Apr2025 02:03:39.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[18Apr2025 02:03:40.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> verda
+[18Apr2025 02:03:44.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> lol q loco
+[18Apr2025 02:03:55.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> si es un webeo hacer el mecanismo pero su uso es divertidp
+[18Apr2025 02:04:19.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> es re útil la cagada
+[18Apr2025 02:04:23.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> me imaginaba
+[18Apr2025 02:04:25.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> no te toco ninguna tablilla del wither? pa las armadura?
+[18Apr2025 02:04:30.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> mmmmmmmmm
+[18Apr2025 02:04:32.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> nop
+[18Apr2025 02:04:49.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> me quiero cambiar la skin pero nose a cual
+[18Apr2025 02:05:08.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ahroa al de willyrex
+[18Apr2025 02:05:10.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> xd
+[18Apr2025 02:05:13.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> ksakjdsakasd claro
+[18Apr2025 02:05:22.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> tenia pensado volver con la de spreen nomas
+[18Apr2025 02:05:37.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> quien es ese
+[18Apr2025 02:05:40.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> :-p
+[18Apr2025 02:05:45.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> nooo
+[18Apr2025 02:05:47.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> LSJKDS
+[18Apr2025 02:05:51.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> no lo conoces?
+[18Apr2025 02:05:55.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> nomás conozco a los youtubers de antes
+[18Apr2025 02:06:01.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> es q ahora no veo contenido de creadores
+[18Apr2025 02:06:03.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> cosas así
+[18Apr2025 02:06:06.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ni a streamers ni nada
+[18Apr2025 02:06:07.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> a esta bien si
+[18Apr2025 02:06:26.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> por eos ahroa conozco esta gente de nombre nomás
+[18Apr2025 02:06:32.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> pero sip
+[18Apr2025 02:06:35.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> nose si me estoy perdiendo mucho
+[18Apr2025 02:06:36.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> jeje
+[18Apr2025 02:06:39.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> spreen es un streamer/youtuber de minecraft argentino, que juega tecnico ultra hardcore o normales y cosas relacionadas con minecraft
+[18Apr2025 02:06:56.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> MMMm brígido
+[18Apr2025 02:07:19.887] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[18Apr2025 02:07:50.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> sabes que
+[18Apr2025 02:07:55.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> no vale la pena hacer las raids
+[18Apr2025 02:07:59.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> no?
+[18Apr2025 02:08:02.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> digooo
+[18Apr2025 02:08:09.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> las raids nomás eran para los totems
+[18Apr2025 02:08:25.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> e igual en mi más honesta opinión los ojos de ciclopes son más ops
+[18Apr2025 02:08:35.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> porque en las raids con este mod de progresive, quita los evoquers y no spawnean y eso desemboca que no te den totems y solo lo dropea las bolsas creo
+[18Apr2025 02:08:51.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> wtf
+[18Apr2025 02:09:10.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> pero creo q las bolsas dan los totems
+[18Apr2025 02:09:14.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> sipo
+[18Apr2025 02:09:21.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> pero no es un drop asegurado
+[18Apr2025 02:09:33.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> igual q como sin las bolsas
+[18Apr2025 02:09:34.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> o no?

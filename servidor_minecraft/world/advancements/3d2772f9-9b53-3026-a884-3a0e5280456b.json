@@ -272,6 +272,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-11 03:25:37 +0000",
+      "minecraft:blaze": "2025-04-18 01:51:50 +0000",
       "minecraft:skeleton": "2025-04-04 01:38:57 +0000",
       "minecraft:ravager": "2025-04-15 04:43:21 +0000",
       "minecraft:hoglin": "2025-04-05 00:18:31 +0000",
@@ -1826,6 +1827,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-04-05 00:17:04 +0000",
+      "minecraft:nether_wastes": "2025-04-18 01:50:24 +0000",
       "minecraft:warped_forest": "2025-04-05 00:18:02 +0000"
     },
     "done": false
@@ -7749,6 +7751,12 @@
   "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
       "killed": "2025-04-17 04:10:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-18 01:50:24 +0000"
     },
     "done": true
   },
