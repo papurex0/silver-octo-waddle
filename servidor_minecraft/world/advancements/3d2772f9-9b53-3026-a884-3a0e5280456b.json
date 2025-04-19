@@ -32,6 +32,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-15 05:23:35 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-04-19 03:29:06 +0000",
       "minecraft:taiga": "2025-04-13 03:01:36 +0000",
       "minecraft:deep_ocean": "2025-04-14 01:19:35 +0000",
       "minecraft:eroded_badlands": "2025-04-11 04:36:10 +0000",
@@ -8085,6 +8086,12 @@
     },
     "done": true
   },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-04-19 03:36:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-04-19 03:23:19 +0000"
@@ -8100,6 +8107,18 @@
   "travelersbackpack:recipes/misc/end": {
     "criteria": {
       "has_ender_eye": "2025-04-19 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2025-04-19 03:31:39 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-04-19 03:50:03 +0000"
     },
     "done": true
   },
