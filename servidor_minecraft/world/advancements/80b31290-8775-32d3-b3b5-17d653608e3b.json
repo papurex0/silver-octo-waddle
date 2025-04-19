@@ -5117,9 +5117,21 @@
     },
     "done": true
   },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-04-19 04:58:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-04-19 04:04:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2025-04-19 04:58:16 +0000"
     },
     "done": true
   },
@@ -5252,6 +5264,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-04-19 03:26:00 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-04-19 04:58:52 +0000"
     },
     "done": true
   },
@@ -5534,6 +5552,12 @@
   "cfm:recipes/decorations/jungle_park_bench": {
     "criteria": {
       "has_log": "2025-04-19 04:04:10 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:enderman_teleport_attack": {
+    "criteria": {
+      "teleported_player": "2025-04-19 04:54:32 +0000"
     },
     "done": true
   },
