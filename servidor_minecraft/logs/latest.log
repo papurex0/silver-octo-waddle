@@ -144,3 +144,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19Apr2025 02:31:59.329] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [19Apr2025 02:33:09.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [19Apr2025 02:33:09.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
+[19Apr2025 02:41:24.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[19Apr2025 02:41:24.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
