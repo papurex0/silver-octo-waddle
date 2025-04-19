@@ -290,6 +290,8 @@
       "minecraft:witch": "2025-04-12 06:51:42 +0000",
       "minecraft:wither_skeleton": "2025-04-11 21:56:46 +0000",
       "minecraft:husk": "2025-04-04 03:11:32 +0000",
+      "minecraft:ender_dragon": "2025-04-19 04:42:10 +0000",
+      "minecraft:shulker": "2025-04-19 04:46:21 +0000",
       "minecraft:enderman": "2025-04-12 00:59:02 +0000",
       "minecraft:stray": "2025-04-11 21:53:53 +0000",
       "minecraft:silverfish": "2025-04-15 05:25:47 +0000",
@@ -8080,6 +8082,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-04-19 04:44:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/protecto": {
     "criteria": {
       "has_ender_eye": "2025-04-19 03:23:19 +0000"
@@ -8116,9 +8124,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-04-19 04:46:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-04-19 04:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-04-19 04:42:10 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:ender_dragon_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-04-19 04:42:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-04-19 02:17:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/dragon": {
+    "criteria": {
+      "has_dragon_breath": "2025-04-19 04:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-04-19 04:40:43 +0000"
     },
     "done": true
   },
@@ -8134,9 +8178,27 @@
     },
     "done": true
   },
+  "majruszsdifficulty:enderman_teleport_attack": {
+    "criteria": {
+      "teleported_player": "2025-04-19 04:45:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-04-19 03:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-04-19 04:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-04-19 04:39:15 +0000"
     },
     "done": true
   },
@@ -8155,6 +8217,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-04-19 02:17:17 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_master": {
+    "criteria": {
+      "is_triggered": "2025-04-19 04:42:10 +0000"
     },
     "done": true
   },

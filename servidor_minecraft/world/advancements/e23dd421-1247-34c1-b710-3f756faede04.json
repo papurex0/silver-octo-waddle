@@ -593,6 +593,7 @@
       "minecraft:phantom": "2025-04-15 02:10:55 +0000",
       "minecraft:wither_skeleton": "2025-04-06 00:24:16 +0000",
       "minecraft:husk": "2025-04-04 23:52:57 +0000",
+      "minecraft:shulker": "2025-04-19 04:48:33 +0000",
       "minecraft:piglin": "2025-04-12 00:48:31 +0000",
       "minecraft:stray": "2025-04-04 03:11:57 +0000",
       "minecraft:enderman": "2025-04-12 23:00:43 +0000",
@@ -6593,6 +6594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-19 04:36:35 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_bronze_chestplate": {
     "criteria": {
       "has_item": "2025-04-19 04:30:28 +0000"
@@ -6605,9 +6612,69 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "axe": "2025-04-19 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-04-19 04:50:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-04-19 04:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-04-19 04:50:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-04-19 04:50:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
     "criteria": {
       "has_sea_serpent_scales_bronze": "2025-04-19 04:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-04-19 04:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-04-19 04:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-04-19 04:50:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-04-19 04:50:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-04-19 04:36:34 +0000"
     },
     "done": true
   },
@@ -6629,15 +6696,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-19 04:36:35 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_bronze_leggings": {
     "criteria": {
       "has_item": "2025-04-19 04:30:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-19 04:36:35 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_trident": {
     "criteria": {
       "has_item": "2025-04-19 04:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-04-19 04:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-04-19 04:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-04-19 04:36:34 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_master": {
+    "criteria": {
+      "is_triggered": "2025-04-19 04:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-04-19 04:50:01 +0000"
     },
     "done": true
   },
