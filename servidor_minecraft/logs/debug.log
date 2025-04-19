@@ -2813,3 +2813,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19Apr2025 02:51:02.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Apr2025 02:51:02.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Apr2025 02:52:14.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Matelunaaa to KidGore6]
+[19Apr2025 02:56:02.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Apr2025 02:56:02.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Apr2025 02:58:37.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[19Apr2025 02:58:38.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
+[19Apr2025 02:59:50.389] [Worker-Main-28/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[19Apr2025 03:01:02.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Apr2025 03:01:02.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
