@@ -146,3 +146,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19Apr2025 02:33:09.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
 [19Apr2025 02:41:24.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [19Apr2025 02:41:24.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
+[19Apr2025 02:47:02.338] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matelunaaa[/127.120.207.226:48137] logged in with entity id 16019 at (-353.2592898110372, 92.0, 120.14164454994555)
+[19Apr2025 02:47:02.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa joined the game
+[19Apr2025 02:52:14.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Matelunaaa to KidGore6]
