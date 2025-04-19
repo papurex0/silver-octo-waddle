@@ -17328,3 +17328,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19Apr2025 05:16:39.789] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['KidGore6'/155524, l='ServerLevel[world]', x=-3700.75, y=61.00, z=677.97] died: KidGore6 was burnt to a crisp whilst fighting KidGore6
 [19Apr2025 05:19:51.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Gave 1 [XP Block] to kishyys]
 [19Apr2025 05:20:24.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Gave 45 experience points to kishyys]
+[19Apr2025 05:23:23.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2900ms or 58 ticks behind
+[19Apr2025 05:26:42.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 fell from a high place
+[19Apr2025 05:27:05.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kishyys lost connection: Disconnected
+[19Apr2025 05:27:05.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys left the game
+[19Apr2025 05:28:39.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2463ms or 49 ticks behind
