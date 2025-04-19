@@ -17452,3 +17452,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19Apr2025 05:48:22.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
 [19Apr2025 05:48:59.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Heinsenberg (vehicle of Matelunaaa) moved too quickly! 0.6120136952200141,-0.6280061836022099,-10.86405674348282
 [19Apr2025 05:53:15.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Dragon Growth Hormone]
+[19Apr2025 05:55:07.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2174ms or 43 ticks behind
+[19Apr2025 05:56:00.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Set own game mode to Creative Mode]
+[19Apr2025 05:57:07.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Set own game mode to Survival Mode]
+[19Apr2025 05:59:11.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere has reached the goal [Sky's the Limit]
+[19Apr2025 05:59:13.346] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matelunaaa lost connection: Disconnected
+[19Apr2025 05:59:13.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa left the game
+[19Apr2025 06:00:41.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere has made the advancement [Local Brewery]
+[19Apr2025 06:01:46.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KidGore6> a partir de que stage el dragon hace lingotes?
+[19Apr2025 06:01:56.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> desde el segundo o tercero
+[19Apr2025 06:01:57.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> creo
+[19Apr2025 06:02:03.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> bien temprano

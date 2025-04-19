@@ -8106,6 +8106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-19 05:56:52 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_ender_golem": {
     "criteria": {
       "endergolem": "2025-04-19 05:00:47 +0000"
@@ -8139,6 +8145,12 @@
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-04-19 04:39:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-19 05:56:52 +0000"
     },
     "done": true
   },
@@ -8220,6 +8232,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-19 05:56:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-04-19 04:23:04 +0000"
@@ -8229,6 +8247,12 @@
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_purpur_block": "2025-04-19 04:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-19 05:56:52 +0000"
     },
     "done": true
   },
@@ -8277,6 +8301,12 @@
   "majruszsdifficulty:enderman_teleport_attack": {
     "criteria": {
       "teleported_player": "2025-04-19 04:45:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-04-19 05:56:50 +0000"
     },
     "done": true
   },
