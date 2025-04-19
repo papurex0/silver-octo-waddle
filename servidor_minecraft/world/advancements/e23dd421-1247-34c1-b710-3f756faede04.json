@@ -6714,6 +6714,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:ender_dragon_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-04-19 06:21:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/crystal_quartz_item": {
     "criteria": {
       "has_prismarine_crystals": "2025-04-19 04:36:34 +0000"
@@ -6732,9 +6738,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/dragon": {
+    "criteria": {
+      "has_dragon_breath": "2025-04-19 06:21:14 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_siren": {
     "criteria": {
       "killed_fire_dragon": "2025-04-19 04:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-04-19 06:21:14 +0000"
     },
     "done": true
   },

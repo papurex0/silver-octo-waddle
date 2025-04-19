@@ -17463,3 +17463,40 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19Apr2025 06:01:56.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> desde el segundo o tercero
 [19Apr2025 06:01:57.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> creo
 [19Apr2025 06:02:03.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> bien temprano
+[19Apr2025 06:05:49.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3845ms or 76 ticks behind
+[19Apr2025 06:05:53.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! 0.0,10.298812978058791,0.0
+[19Apr2025 06:05:53.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! 0.0,11.84781342924228,0.0
+[19Apr2025 06:05:53.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! 0.0,13.409825440977585,0.0
+[19Apr2025 06:05:53.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! 0.0,14.983313649119594,0.0
+[19Apr2025 06:05:53.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! 0.0,16.566923862492317,0.0
+[19Apr2025 06:05:53.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! 0.0,18.159461684478515,0.0
+[19Apr2025 06:05:53.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! 0.0,19.759873657261807,0.0
+[19Apr2025 06:05:53.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! 0.0,21.367230631048145,0.0
+[19Apr2025 06:05:53.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! 0.0,22.980713095719153,0.0
+[19Apr2025 06:05:53.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! 0.0,24.599598243350457,0.0
+[19Apr2025 06:05:53.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! 0.0,26.223248557352733,0.0
+[19Apr2025 06:05:53.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! 0.0,27.851101748094194,0.0
+[19Apr2025 06:05:53.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! 0.0,29.482661876119636,0.0
+[19Apr2025 06:05:53.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! 0.0,31.11749152282954,0.0
+[19Apr2025 06:05:53.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! 0.0,32.75520488501914,0.0
+[19Apr2025 06:05:53.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! 0.0,34.39546168426183,0.0
+[19Apr2025 06:05:53.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! 0.0,27.27339693188351,0.0
+[19Apr2025 06:05:53.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! 0.0,28.91787564333312,0.0
+[19Apr2025 06:05:53.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: playstation 5 (vehicle of Cakeyshere) moved too quickly! 0.0,30.368305866831676,0.0
+[19Apr2025 06:16:41.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19Apr2025 06:16:58.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2179ms or 43 ticks behind
+[19Apr2025 06:20:37.360] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 3 bison_fur because there is no smelting recipe
+[19Apr2025 06:20:47.007] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[19Apr2025 06:20:56.093] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 5 bison_fur because there is no smelting recipe
+[19Apr2025 06:21:13.716] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 3 bison_fur because there is no smelting recipe
+[19Apr2025 06:21:14.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere has made the advancement [The End of the End?]
+[19Apr2025 06:21:14.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere has reached the goal [You Need a Mint]
+[19Apr2025 06:21:31.818] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 3 bison_fur because there is no smelting recipe
+[19Apr2025 06:25:49.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of KidGore6) moved wrongly! 1.1637082169684732
+[19Apr2025 06:25:49.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of KidGore6) moved wrongly! 1.1637082169684732
+[19Apr2025 06:25:49.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of KidGore6) moved wrongly! 1.1637082169684732
+[19Apr2025 06:25:49.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of KidGore6) moved wrongly! 0.6958482799116723
+[19Apr2025 06:25:49.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of KidGore6) moved wrongly! 0.2579948663482128
+[19Apr2025 06:25:49.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of KidGore6) moved wrongly! 1.1637082169684732
+[19Apr2025 06:25:49.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of KidGore6) moved wrongly! 0.7536493985908805
+[19Apr2025 06:25:49.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of KidGore6) moved wrongly! 0.36731185137193734
