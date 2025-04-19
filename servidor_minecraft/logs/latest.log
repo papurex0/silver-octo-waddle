@@ -118,3 +118,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19Apr2025 01:59:59.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 joined the game
 [19Apr2025 02:00:02.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3086ms or 61 ticks behind
 [19Apr2025 02:00:23.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2334ms or 46 ticks behind
+[19Apr2025 02:10:32.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[19Apr2025 02:10:32.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
+[19Apr2025 02:14:11.834] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
