@@ -151,3 +151,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19Apr2025 02:52:14.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Matelunaaa to KidGore6]
 [19Apr2025 02:58:37.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [19Apr2025 02:58:38.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ola<--[HERE]
+[19Apr2025 03:08:49.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Matelunaaa to KidGore6]
+[19Apr2025 03:08:56.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kishyys[/127.236.26.23:59479] logged in with entity id 28232 at (-349.4981885034185, 93.0, 125.1921282850856)
+[19Apr2025 03:08:56.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys joined the game
+[19Apr2025 03:10:09.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported KidGore6 to Matelunaaa]
+[19Apr2025 03:11:06.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa was obliterated by a sonically-charged shriek
+[19Apr2025 03:11:06.120] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Matelunaaa with unique ID travelersbackpack.standard_19.04.2025-03.11.06.dat
+[19Apr2025 03:11:09.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported Matelunaaa to KidGore6]
+[19Apr2025 03:11:18.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 has made the advancement [Sculk Cymbal]
+[19Apr2025 03:12:06.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matelunaaa has made the advancement [Master of Silence]
+[19Apr2025 03:13:10.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KidGore6 was slain by Warden
+[19Apr2025 03:13:10.154] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for KidGore6 with unique ID travelersbackpack.standard_19.04.2025-03.13.10.dat
+[19Apr2025 03:13:16.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported KidGore6 to Matelunaaa]
+[19Apr2025 03:14:00.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported KidGore6 to Matelunaaa]
+[19Apr2025 03:14:28.382] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cakeyshere[/127.86.151.143:45387] logged in with entity id 31844 at (-165.72354492902016, 136.0, 368.85440196039485)
+[19Apr2025 03:14:28.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cakeyshere joined the game
+[19Apr2025 03:14:46.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ola
+[19Apr2025 03:15:10.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matelunaaa: Teleported KidGore6 to Matelunaaa]
+[19Apr2025 03:15:13.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[19Apr2025 03:15:46.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kishyys moved too quickly! -0.7265284178556897,1.1661092609382138,-9.924313900500408

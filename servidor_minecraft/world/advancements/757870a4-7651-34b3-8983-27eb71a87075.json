@@ -8027,6 +8027,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2025-04-19 03:08:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_arrow": {
     "criteria": {
       "has_item": "2025-04-19 02:50:18 +0000"
