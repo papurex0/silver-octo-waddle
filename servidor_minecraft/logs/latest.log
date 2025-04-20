@@ -298,3 +298,30 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [20Apr2025 01:57:12.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kishyys joined the game
 [20Apr2025 01:57:12.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
 [20Apr2025 01:57:19.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cakeyshere> ola
+[20Apr2025 01:57:52.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20Apr2025 01:58:21.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13937ms or 278 ticks behind
+[20Apr2025 01:58:25.383] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/2194, l='ServerLevel[world]', x=-346.30, y=90.00, z=363.50] died, message: 'Fletcher bled to death'
+[20Apr2025 01:59:38.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: The difficulty has been set to Hard]
+[20Apr2025 01:59:55.551] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1361, y=35, z=-7680} but found not block entity block Block{minecraft:water}[level=5] at location
+[20Apr2025 01:59:55.552] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=5] but failed at location BlockPos{x=-1361, y=35, z=-7680}
+[20Apr2025 02:00:40.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> AMOIR
+[20Apr2025 02:01:00.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> :D
+[20Apr2025 02:01:04.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> flores aqui
+[20Apr2025 02:01:17.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> :D
+[20Apr2025 02:01:24.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> ahi vusquw
+[20Apr2025 02:01:30.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kishyys> CUANDO HAGA SALA D COFRES YO ORDENO
+[20Apr2025 02:01:35.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> si
+[20Apr2025 02:01:39.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Matelunaaa> a mi me da paja
+[20Apr2025 02:01:51.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: r3xyzz has made the advancement [When in Rome]
+[20Apr2025 02:04:58.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[20Apr2025 02:05:20.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[20Apr2025 02:05:37.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[20Apr2025 02:05:56.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3995ms or 79 ticks behind
+[20Apr2025 02:06:15.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4092ms or 81 ticks behind
+[20Apr2025 02:06:34.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3493ms or 69 ticks behind
+[20Apr2025 02:06:53.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3847ms or 76 ticks behind
+[20Apr2025 02:07:10.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2904ms or 58 ticks behind
+[20Apr2025 02:07:29.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3175ms or 63 ticks behind
+[20Apr2025 02:07:48.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4261ms or 85 ticks behind
+[20Apr2025 02:08:06.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2724ms or 54 ticks behind
+[20Apr2025 02:08:24.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3294ms or 65 ticks behind

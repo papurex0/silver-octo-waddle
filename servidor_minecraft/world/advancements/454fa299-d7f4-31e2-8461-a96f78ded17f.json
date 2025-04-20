@@ -52,8 +52,10 @@
       "minecraft:forest": "2025-04-03 02:14:19 +0000",
       "minecraft:desert": "2025-04-12 06:47:17 +0000",
       "minecraft:jungle": "2025-04-12 06:22:06 +0000",
+      "minecraft:ocean": "2025-04-20 01:54:06 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-18 03:51:24 +0000",
       "minecraft:windswept_savanna": "2025-04-16 03:05:08 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-20 01:57:51 +0000",
       "minecraft:flower_forest": "2025-04-18 04:21:17 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-15 02:15:38 +0000",
       "minecraft:deep_dark": "2025-04-06 02:42:52 +0000",
@@ -3906,6 +3908,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-04-20 02:01:51 +0000",
       "in_better_monster_room": "2025-04-12 06:55:51 +0000",
       "in_better_spider_dungeon": "2025-04-18 04:25:54 +0000"
     },
@@ -5369,6 +5372,18 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-20 02:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-04-20 01:55:48 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_sofa": {
     "criteria": {
       "has_wool": "2025-04-20 01:52:13 +0000"
@@ -5384,6 +5399,12 @@
   "travelersbackpack:recipes/decorations/black_sleeping_bag": {
     "criteria": {
       "has_black_wool": "2025-04-20 01:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-04-20 01:55:48 +0000"
     },
     "done": true
   },
