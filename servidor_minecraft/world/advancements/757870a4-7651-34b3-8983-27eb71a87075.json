@@ -8394,5 +8394,17 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/fire_stew": {
+    "criteria": {
+      "has_item": "2025-04-20 01:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-04-20 01:48:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

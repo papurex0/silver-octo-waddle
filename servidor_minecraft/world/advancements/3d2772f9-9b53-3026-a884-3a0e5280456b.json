@@ -8322,5 +8322,11 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragonscale_sapphire_to_dragonscales_sapphire": {
+    "criteria": {
+      "has_dragonscale_sapphire": "2025-04-20 01:49:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
