@@ -6594,21 +6594,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_end_stone_bricks": "2025-04-19 05:02:31 +0000"
+      "has_dandelion": "2025-04-19 03:37:29 +0000"
     },
     "done": true
   },
-  "minecraft:nether/brew_potion": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "potion": "2025-04-19 06:00:41 +0000"
+      "has_brown_mushroom": "2025-04-19 04:26:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "has_prismarine_shard": "2025-04-19 04:36:35 +0000"
+      "has_brown_mushroom": "2025-04-19 04:26:31 +0000"
     },
     "done": true
   },
@@ -6624,27 +6624,93 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-04-19 04:30:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-04-19 04:30:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-04-19 04:30:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-04-19 04:30:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-04-19 04:30:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-19 04:35:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-04-19 04:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-04-19 04:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-19 04:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-19 04:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-19 04:36:35 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragonsteel_weapon": {
     "criteria": {
       "axe": "2025-04-19 04:39:45 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/display_case": {
+  "minecraft:story/enter_the_end": {
     "criteria": {
-      "has_item_frame": "2025-04-19 05:59:16 +0000"
+      "entered_end": "2025-04-19 04:40:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_pillar": {
+  "minecraft:end/root": {
     "criteria": {
-      "has_purpur_block": "2025-04-19 04:50:01 +0000"
+      "entered_end": "2025-04-19 04:40:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
+  "majruszsdifficulty:game_stage_master": {
     "criteria": {
-      "has_chorus_fruit": "2025-04-19 05:56:05 +0000"
+      "is_triggered": "2025-04-19 04:42:10 +0000"
     },
     "done": true
   },
@@ -6654,9 +6720,21 @@
     },
     "done": true
   },
-  "minecraft:end/elytra": {
+  "minecraft:end/find_end_city": {
     "criteria": {
-      "elytra": "2025-04-19 05:59:11 +0000"
+      "in_city": "2025-04-19 04:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-04-19 04:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-04-19 04:50:01 +0000"
     },
     "done": true
   },
@@ -6672,39 +6750,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
-    "criteria": {
-      "has_sea_serpent_scales_bronze": "2025-04-19 04:30:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-04-19 05:02:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2025-04-19 04:49:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-04-19 04:40:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-04-19 04:50:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2025-04-19 05:02:31 +0000"
     },
     "done": true
   },
@@ -6714,75 +6762,9 @@
     },
     "done": true
   },
-  "majruszsdifficulty:ender_dragon_treasure_bag": {
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
     "criteria": {
-      "bag_opened": "2025-04-19 06:21:14 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/crystal_quartz_item": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-04-19 04:36:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2025-04-19 04:26:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-04-19 05:59:16 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/dragon": {
-    "criteria": {
-      "has_dragon_breath": "2025-04-19 06:21:14 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_siren": {
-    "criteria": {
-      "killed_fire_dragon": "2025-04-19 04:35:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_breath": {
-    "criteria": {
-      "dragon_breath": "2025-04-19 06:21:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-04-19 03:37:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-04-19 05:02:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2025-04-19 04:36:35 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_bronze_leggings": {
-    "criteria": {
-      "has_item": "2025-04-19 04:30:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-04-19 04:36:35 +0000"
+      "has_purpur_block": "2025-04-19 04:50:01 +0000"
     },
     "done": true
   },
@@ -6792,9 +6774,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_trident": {
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
     "criteria": {
-      "has_item": "2025-04-19 04:30:29 +0000"
+      "has_end_stone_bricks": "2025-04-19 05:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-04-19 05:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-04-19 05:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-04-19 05:02:31 +0000"
     },
     "done": true
   },
@@ -6810,21 +6810,27 @@
     },
     "done": true
   },
-  "minecraft:end/find_end_city": {
+  "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
-      "in_city": "2025-04-19 04:47:41 +0000"
+      "has_chorus_fruit": "2025-04-19 05:56:05 +0000"
     },
     "done": true
   },
-  "minecraft:end/root": {
+  "minecraft:end/elytra": {
     "criteria": {
-      "entered_end": "2025-04-19 04:40:48 +0000"
+      "elytra": "2025-04-19 05:59:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
+  "securitycraft:recipes/decorations/display_case": {
     "criteria": {
-      "has_prismarine_crystals": "2025-04-19 04:36:34 +0000"
+      "has_item_frame": "2025-04-19 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-04-19 05:59:16 +0000"
     },
     "done": true
   },
@@ -6834,33 +6840,27 @@
     },
     "done": true
   },
-  "majruszsdifficulty:game_stage_master": {
+  "minecraft:nether/brew_potion": {
     "criteria": {
-      "is_triggered": "2025-04-19 04:42:10 +0000"
+      "potion": "2025-04-19 06:00:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+  "majruszsdifficulty:ender_dragon_treasure_bag": {
     "criteria": {
-      "has_purpur_block": "2025-04-19 04:50:01 +0000"
+      "bag_opened": "2025-04-19 06:21:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "travelersbackpack:recipes/misc/dragon": {
     "criteria": {
-      "has_brown_mushroom": "2025-04-19 04:26:31 +0000"
+      "has_dragon_breath": "2025-04-19 06:21:14 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/sea_serpent_arrow": {
+  "minecraft:end/dragon_breath": {
     "criteria": {
-      "has_item": "2025-04-19 04:30:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_bronze_boots": {
-    "criteria": {
-      "has_item": "2025-04-19 04:30:28 +0000"
+      "dragon_breath": "2025-04-19 06:21:14 +0000"
     },
     "done": true
   },
