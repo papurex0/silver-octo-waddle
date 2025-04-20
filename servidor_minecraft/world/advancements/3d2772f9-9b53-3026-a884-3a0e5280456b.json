@@ -8412,6 +8412,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/ghost_sword": {
+    "criteria": {
+      "has_item": "2025-04-20 05:59:45 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/ender_flu": {
     "criteria": {
       "all_effects": "2025-04-20 05:15:57 +0000"
