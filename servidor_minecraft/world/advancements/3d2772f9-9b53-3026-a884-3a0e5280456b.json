@@ -8322,6 +8322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-20 04:27:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_cabinet": {
     "criteria": {
       "has_log": "2025-04-20 02:20:07 +0000"
@@ -8508,9 +8514,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-20 04:27:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_acacia_table": {
     "criteria": {
       "has_planks": "2025-04-20 02:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-20 04:27:44 +0000"
     },
     "done": true
   },
