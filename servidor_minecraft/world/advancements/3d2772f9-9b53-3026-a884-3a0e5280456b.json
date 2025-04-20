@@ -8316,5 +8316,11 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "core": "2025-04-20 01:42:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

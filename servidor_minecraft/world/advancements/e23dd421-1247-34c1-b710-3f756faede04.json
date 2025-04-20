@@ -6864,5 +6864,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2025-04-20 01:46:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
