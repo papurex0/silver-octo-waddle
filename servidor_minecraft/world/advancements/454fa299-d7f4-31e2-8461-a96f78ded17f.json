@@ -403,6 +403,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-04-20 02:24:58 +0000",
       "minecraft:skeleton": "2025-04-04 23:45:06 +0000",
       "minecraft:hoglin": "2025-04-12 01:37:28 +0000",
       "minecraft:spider": "2025-04-03 02:25:59 +0000",
@@ -506,11 +507,13 @@
       "baked_potato": "2025-04-11 04:36:54 +0000",
       "beef": "2025-04-15 02:55:53 +0000",
       "apple": "2025-04-03 02:28:05 +0000",
+      "potato": "2025-04-20 02:26:51 +0000",
       "mutton": "2025-04-15 02:54:47 +0000",
       "bread": "2025-04-03 02:34:09 +0000",
       "melon_slice": "2025-04-11 03:25:29 +0000",
       "cooked_chicken": "2025-04-05 00:22:58 +0000",
-      "enchanted_golden_apple": "2025-04-14 03:00:21 +0000"
+      "enchanted_golden_apple": "2025-04-14 03:00:21 +0000",
+      "carrot": "2025-04-20 02:20:34 +0000"
     },
     "done": false
   },
@@ -5378,6 +5381,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-20 02:24:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-04-20 01:55:48 +0000"
@@ -5405,6 +5414,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-04-20 01:55:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-04-20 02:17:10 +0000"
     },
     "done": true
   },
