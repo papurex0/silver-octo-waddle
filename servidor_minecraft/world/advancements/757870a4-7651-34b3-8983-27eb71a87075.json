@@ -515,6 +515,7 @@
       "minecraft:spider": "2025-04-03 02:23:18 +0000",
       "minecraft:creeper": "2025-04-03 00:36:56 +0000",
       "minecraft:phantom": "2025-04-06 00:23:04 +0000",
+      "minecraft:zombified_piglin": "2025-04-20 04:54:54 +0000",
       "minecraft:witch": "2025-04-04 03:06:12 +0000",
       "minecraft:wither_skeleton": "2025-04-06 00:20:51 +0000",
       "minecraft:husk": "2025-04-04 02:06:46 +0000",
@@ -523,7 +524,8 @@
       "minecraft:enderman": "2025-04-03 01:56:59 +0000",
       "minecraft:stray": "2025-04-04 02:07:02 +0000",
       "minecraft:zombie": "2025-04-03 00:36:51 +0000",
-      "minecraft:drowned": "2025-04-04 03:15:19 +0000"
+      "minecraft:drowned": "2025-04-04 03:15:19 +0000",
+      "minecraft:zombie_villager": "2025-04-20 05:16:11 +0000"
     },
     "done": false
   },
@@ -8441,6 +8443,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-04-20 02:50:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-20 05:11:29 +0000"
     },
     "done": true
   },

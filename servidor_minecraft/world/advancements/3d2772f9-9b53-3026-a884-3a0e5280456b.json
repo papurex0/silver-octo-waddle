@@ -8346,6 +8346,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed": "2025-04-20 05:16:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_table": {
     "criteria": {
       "has_log": "2025-04-20 02:19:25 +0000"
@@ -8406,6 +8412,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2025-04-20 05:15:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_acacia_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-04-20 02:20:07 +0000"
@@ -8433,6 +8445,12 @@
   "cfm:recipes/decorations/birch_crate": {
     "criteria": {
       "has_log": "2025-04-20 02:19:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-04-20 05:16:43 +0000"
     },
     "done": true
   },
