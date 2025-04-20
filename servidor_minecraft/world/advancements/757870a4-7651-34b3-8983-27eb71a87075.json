@@ -8416,6 +8416,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-04-20 05:33:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-04-20 02:36:48 +0000"

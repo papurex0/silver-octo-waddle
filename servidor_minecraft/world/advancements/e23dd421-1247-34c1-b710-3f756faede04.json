@@ -6864,6 +6864,66 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2025-04-20 01:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-04-20 02:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-20 02:09:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-20 02:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-20 02:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-20 02:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-20 02:09:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-20 02:09:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-20 02:09:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-04-20 02:23:00 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_cooler": {
     "criteria": {
       "has_chest": "2025-04-20 03:27:35 +0000"
@@ -6873,12 +6933,6 @@
   "cfm:recipes/decorations/brown_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-20 03:27:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-04-20 02:09:55 +0000"
     },
     "done": true
   },
@@ -6906,18 +6960,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_the_recipe": "2025-04-20 03:59:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-04-20 02:09:27 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_spruce_mail_box": {
     "criteria": {
       "has_chest": "2025-04-20 03:27:35 +0000"
@@ -6933,18 +6975,6 @@
   "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-20 03:27:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-04-20 02:09:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
-    "criteria": {
-      "has_cod": "2025-04-20 01:46:11 +0000"
     },
     "done": true
   },
@@ -7032,21 +7062,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-04-20 02:09:55 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_crimson_mail_box": {
     "criteria": {
       "has_chest": "2025-04-20 03:27:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-04-20 02:01:28 +0000"
     },
     "done": true
   },
@@ -7077,12 +7095,6 @@
   "cfm:recipes/decorations/white_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-20 03:27:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-04-20 05:22:01 +0000"
     },
     "done": true
   },
@@ -7206,12 +7218,6 @@
     },
     "done": true
   },
-  "minecraft:story/cure_zombie_villager": {
-    "criteria": {
-      "cured_zombie": "2025-04-20 02:23:00 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-20 03:27:35 +0000"
@@ -7245,24 +7251,6 @@
   "cfm:recipes/decorations/white_cooler": {
     "criteria": {
       "has_chest": "2025-04-20 03:27:35 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/blaze": {
-    "criteria": {
-      "has_blaze_rod": "2025-04-20 02:09:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-04-20 02:09:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_deepslate": {
-    "criteria": {
-      "has_cobbled_deepslate_slab": "2025-04-20 03:49:43 +0000"
     },
     "done": true
   },
@@ -7302,15 +7290,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-04-20 02:09:27 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-20 03:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-04-20 03:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2025-04-20 03:59:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-04-20 05:22:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-20 05:44:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-20 05:44:32 +0000"
     },
     "done": true
   },

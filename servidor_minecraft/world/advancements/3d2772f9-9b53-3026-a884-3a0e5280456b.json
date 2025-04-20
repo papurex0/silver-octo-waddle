@@ -8502,6 +8502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-20 05:50:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_crate": {
     "criteria": {
       "has_planks": "2025-04-20 02:19:25 +0000"
@@ -8637,6 +8643,12 @@
   "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
     "criteria": {
       "has_log": "2025-04-20 02:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-20 05:50:26 +0000"
     },
     "done": true
   },
