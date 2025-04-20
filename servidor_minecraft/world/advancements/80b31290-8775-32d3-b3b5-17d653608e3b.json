@@ -5748,6 +5748,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-20 02:50:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
       "has_cut_sandstone": "2025-04-20 02:16:07 +0000"
@@ -5760,9 +5766,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-04-20 02:50:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
       "has_sand": "2025-04-20 02:04:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-20 02:50:54 +0000"
     },
     "done": true
   },
@@ -5772,9 +5790,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-20 02:50:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-04-20 02:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-04-20 02:50:55 +0000"
     },
     "done": true
   },

@@ -5364,6 +5364,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-04-20 02:35:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_meal": {
     "criteria": {
       "bestiary": "2025-04-20 01:46:31 +0000"
@@ -5376,9 +5382,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-20 02:35:10 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-04-20 02:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-20 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-20 02:35:10 +0000"
     },
     "done": true
   },
@@ -5400,15 +5424,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-20 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-20 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-04-20 02:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-20 02:35:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-04-20 01:52:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-04-20 02:35:13 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/black_sleeping_bag": {
     "criteria": {
       "has_black_wool": "2025-04-20 01:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-20 02:35:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-20 02:35:10 +0000"
     },
     "done": true
   },
@@ -5424,15 +5490,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-04-20 02:35:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_sofa": {
     "criteria": {
       "has_wool": "2025-04-20 01:52:11 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-20 02:35:10 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:game_stage_master": {
     "criteria": {
       "is_triggered": "2025-04-20 01:41:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-04-20 02:35:13 +0000"
     },
     "done": true
   },

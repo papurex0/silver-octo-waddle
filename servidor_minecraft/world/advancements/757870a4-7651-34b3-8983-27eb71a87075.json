@@ -60,6 +60,7 @@
       "minecraft:ocean": "2025-04-03 00:46:57 +0000",
       "minecraft:snowy_beach": "2025-04-14 02:24:02 +0000",
       "minecraft:windswept_savanna": "2025-04-11 03:15:25 +0000",
+      "minecraft:warm_ocean": "2025-04-20 02:50:27 +0000",
       "minecraft:flower_forest": "2025-04-14 01:34:19 +0000",
       "minecraft:frozen_peaks": "2025-04-18 03:25:14 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-18 03:25:12 +0000",
@@ -505,6 +506,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-17 02:52:08 +0000",
+      "minecraft:blaze": "2025-04-20 02:37:22 +0000",
       "minecraft:skeleton": "2025-04-03 00:37:12 +0000",
       "minecraft:ravager": "2025-04-18 02:29:34 +0000",
       "minecraft:ghast": "2025-04-14 00:54:01 +0000",
@@ -8400,9 +8402,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-20 02:50:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-04-20 01:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-20 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-04-20 02:50:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-20 02:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-20 02:50:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-20 02:50:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-04-20 02:50:35 +0000"
     },
     "done": true
   },
