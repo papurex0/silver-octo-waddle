@@ -2666,3 +2666,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Apr2025 01:44:27.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Creative Mode]
 [21Apr2025 01:44:36.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Spectator Mode]
 [21Apr2025 01:44:53.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Creative Mode]
+[21Apr2025 01:45:15.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Spectator Mode]
+[21Apr2025 01:45:41.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Apr2025 01:45:41.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Apr2025 01:45:42.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Creative Mode]
+[21Apr2025 01:48:40.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Spectator Mode]
+[21Apr2025 01:48:47.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Survival Mode]
+[21Apr2025 01:48:50.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Spectator Mode]
+[21Apr2025 01:48:55.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Creative Mode]
+[21Apr2025 01:49:03.056] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/9563, l='ServerLevel[world]', x=-346.30, y=90.00, z=363.50] died, message: 'Fletcher was slain by cupón de descuento'
+[21Apr2025 01:49:17.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Spectator Mode]
+[21Apr2025 01:49:32.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Creative Mode]
+[21Apr2025 01:50:41.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Apr2025 01:50:41.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Apr2025 01:55:08.156] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/11398, l='ServerLevel[world]', x=-346.30, y=90.00, z=363.50] died, message: 'Fletcher was slain by cupón de descuento'
