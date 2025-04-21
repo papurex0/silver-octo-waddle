@@ -180,3 +180,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Apr2025 01:49:17.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Spectator Mode]
 [21Apr2025 01:49:32.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Creative Mode]
 [21Apr2025 01:55:08.156] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/11398, l='ServerLevel[world]', x=-346.30, y=90.00, z=363.50] died, message: 'Fletcher was slain by cupón de descuento'
+[21Apr2025 01:55:35.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Spectator Mode]
+[21Apr2025 01:55:42.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Survival Mode]
+[21Apr2025 01:55:50.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Creative Mode]
+[21Apr2025 01:56:00.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Spectator Mode]
+[21Apr2025 01:56:05.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Creative Mode]
+[21Apr2025 02:00:51.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Apr2025 02:00:51.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OLA<--[HERE]
+[21Apr2025 02:02:10.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cakeyshere: Set own game mode to Survival Mode]
